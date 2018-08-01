@@ -1,6 +1,6 @@
 # Data Science Resources
 
-This repository contains resources and cheatsheets that will be helpful for the course (and after it!). 
+This repository contains resources and cheatsheets that should be helpful for anyone learning or practicing data science. 
 
 [Cheat Sheets](Cheat-Sheets) - contains a lot of useful cheat sheets for Python, data analysis, machine learning, Git and more.
 

@@ -36,7 +36,7 @@ This folder contains cheat sheets that are relevant to the course.
 
 
 ## Data Analysis with Python
-- [NumPy, SciPy and Pandas Cheat Sheet](NumPy:SciPy:Pandas-Cheat-Sheet%20.pdf)
+- [NumPy, SciPy and Pandas Cheat Sheet](NumPy-SciPy-Pandas-Cheat-Sheet.pdf)
 
 
 ### NumPy

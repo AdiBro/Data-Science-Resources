@@ -2,6 +2,7 @@
 
 ## Command Line
 - [Bash Shell Reference](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html) - command line commands.
+- [More Bash Resources](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#bash) - from [Free Ebook Foundation's](https://github.com/EbookFoundation) [Free Programming Resources](https://github.com/EbookFoundation/free-programming-books) repo: 
 
 ## Git and GitHub
 - [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E) - a video from GitHub.
@@ -10,6 +11,7 @@
 - [Git - the Simple Guide](http://rogerdudler.github.io/git-guide/) - a simple guide for getting started with git.
   - [Git Cheat Sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 - [Using Git](http://www.magic-analytics.com/blog/using-git-the-solo-master) - another intro to Git, as well as troubleshooting common problems.
+- [More Git Resources](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#git) - from [Free Ebook Foundation's](https://github.com/EbookFoundation) [Free Programming Resources](https://github.com/EbookFoundation/free-programming-books) repo. 
 
 ## Jupyter Notebook
 - [Jupyter Notebook Documentation](https://jupyter-notebook.readthedocs.io/en/stable/)

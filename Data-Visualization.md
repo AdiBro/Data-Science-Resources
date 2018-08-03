@@ -1,5 +1,6 @@
 # Data Visualization Resources
 - [Python Graph Gallery](https://python-graph-gallery.com) - this website displays hundreds of charts while providing the reproducible Python code.
+- [Visualizing Machine Learning Models: Examples with Scikit-learn, XGB and Matplotlib](http://queirozf.com/entries/visualizing-machine-learning-models-examples-with-scikit-learn-and-matplotlib)
 
 ## Plotting in Pandas
 - [Visualization in Pandas](https://pandas.pydata.org/pandas-docs/stable/visualization.html)

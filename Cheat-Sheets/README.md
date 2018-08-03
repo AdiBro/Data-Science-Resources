@@ -1,12 +1,12 @@
 # Data Science Cheat Sheets
 
-This folder contains cheat sheets that are relevant to the course. 
+This folder contains cheat sheets that are relevant anyone learning or practicing data science. 
 
 
 ## Command Line and Git
 - [Command Line Cheat Sheet](Command-Line_Cheat-Sheet.pdf)
 
-- [Unix Command Line Cheat Sheet](Cheat-Sheets/Unix%20commands%20reference%20.pdf)
+- [Unix Command Line Cheat Sheet](Unix%20commands%20reference%20.pdf)
 
 - [Git Cheat Sheet #1](Git-Cheat-Sheet-1.pdf)
 
@@ -30,6 +30,10 @@ This folder contains cheat sheets that are relevant to the course.
 
 - [Python Basics Cheat Sheet #2](Basic-Python-Cheat-Sheet.pdf)
 
+- [Python Basics Cheat Sheet #3](Python-Cheat-Sheet-3.pdf)
+
+- [Python Notes and Cheat Sheet](Python-Notes.pdf)
+
 - [Python Intermediate Cheat Sheet](Intermediate-Python-Cheat-Sheet.pdf)
 
 - [Python Regular Expressions Cheat Sheet](Python-Regex-Cheat-Sheet.pdf)
@@ -44,6 +48,8 @@ This folder contains cheat sheets that are relevant to the course.
 
 - [NumPy Cheat Sheet #2](Numpy-Cheat-Sheet.pdf)
 
+- [NumPy Cheat Sheet #3](Numpy-Cheat-Sheet-2.pdf)
+
 
 ### Pandas
 - [Pandas Basics Cheat Sheet](Pandas-Basics-Cheat-Sheet.pdf)
@@ -52,9 +58,15 @@ This folder contains cheat sheets that are relevant to the course.
 
 - [Pandas Cheat Sheet #2](Pandas-Cheat-Sheet-2.pdf)
 
+- [Pandas Cheat Sheet #3](Pandas-Cheat-Sheet-3.pdf)
+
+- [Pandas Notes and Cheat Sheet](Pandas-Notes.pdf)
+
 
 ## Data Visualization 
 - [Matplotlib Cheat Sheet](Matplotlib-Cheat-Sheet.pdf)
+
+- [Matplotlib Notes](Matplotlib-Notes.pdf)
 
 - [Seaborn Cheat Sheet](Seaborn-Cheat-Sheet.pdf)
 

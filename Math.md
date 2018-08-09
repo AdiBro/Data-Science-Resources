@@ -8,7 +8,7 @@
 ## Linear Algebra
 - [Linear Algebra for Data Scientist](https://www.analyticsvidhya.com/blog/2017/05/comprehensive-guide-to-linear-algebra/) - a comprehensive beginners guide to Linear Algebra for Data Scientists.
 - [Khan Academy's Linear Algebra Class](https://www.khanacademy.org/math/linear-algebra)
-- [Immersive Linear Algebra[(http://immersivemath.com/ila/index.html) - "the world's first linear algebra book with fully interactive figures."
+- [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - "the world's first linear algebra book with fully interactive figures."
 - [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/)
 - [A Programmer’s Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/)
 - [Linear Algebra Concepts](http://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html) - a brief overview of basic linear algebra concepts, taken from [Machine Learning Cheatsheet](http://ml-cheatsheet.readthedocs.io/en/latest/index.html).

@@ -12,6 +12,7 @@
 - [Git - the Simple Guide](http://rogerdudler.github.io/git-guide/) - a simple guide for getting started with git.
   - [Git Cheat Sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
 - [Using Git](http://www.magic-analytics.com/blog/using-git-the-solo-master) - another intro to Git, as well as troubleshooting common problems.
+- [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [More Git Resources](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#git) - from [Free Ebook Foundation's](https://github.com/EbookFoundation) [Free Programming Resources](https://github.com/EbookFoundation/free-programming-books) repo. 
 
 ## Jupyter Notebook

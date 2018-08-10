@@ -13,3 +13,4 @@
 - [A Programmer’s Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/)
 - [Linear Algebra Concepts](http://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html) - a brief overview of basic linear algebra concepts, taken from [Machine Learning Cheatsheet](http://ml-cheatsheet.readthedocs.io/en/latest/index.html).
 - [Linear Alegbra Review](https://www.youtube.com/watch?v=6AP4IvfKmwg&list=PLnnr1O8OWc6boN4WHeuisJWmeQHH9D_Vg) - linear alegbra review videos, from Andrew Ng's Machine Learning course. 
+- [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) - a linear algebra book from [Dr. Gilbert Strang](http://math.mit.edu/~gs/), a professor of mathematics from Massachusetts Institute of Technology. 

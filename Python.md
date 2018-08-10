@@ -21,6 +21,7 @@ great (graphical) explanation of list comprehension in Python.
 - [Learn Python Tutorial](http://www.learnpython.org)
 - [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) - _Think Python_ is an introduction to Python programming for beginners. You can download a free PDF, view online and even access the Python code.
 - [Python Tutorial](http://www.tutorialspoint.com/python3/) - a very detailed Python tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com). 
+- [Dive Into Python 3](http://www.diveintopython3.net) - a hands-on guide to Python 3 and its differences from Python 2.
 
 ## Python for Data Analysis
 - [Python and Data Analysis](https://chrisalbon.com/#python) - excellent guide for data anaylsis with Python - basic Python, data  wrangling, data visualization and more. Part of [Chris Albon's excellent website](https://chrisalbon.com) 

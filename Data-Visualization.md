@@ -1,6 +1,5 @@
 # Data Visualization Resources
 - [Python Graph Gallery](https://python-graph-gallery.com) - this website displays hundreds of charts while providing the reproducible Python code.
-- [Visualizing Machine Learning Models: Examples with Scikit-learn, XGB and Matplotlib](http://queirozf.com/entries/visualizing-machine-learning-models-examples-with-scikit-learn-and-matplotlib)
 
 ## Plotting in Pandas
 - [Visualization in Pandas](https://pandas.pydata.org/pandas-docs/stable/visualization.html)
@@ -33,9 +32,11 @@
 ## Bokeh
 - [Bokeh Official Documentation](https://bokeh.pydata.org/en/latest/)
   - [Bokeh User's Guide](https://bokeh.pydata.org/en/latest/docs/user_guide.html)
-  - [Bokeh Tutorial](https://nbviewer.jupyter.org/github/bokeh/bokeh-notebooks/blob/master/tutorial/00%20-%20Introduction%20and%20Setup.ipynb)
-    - [Interactive Version](https://hub.mybinder.org/user/bokeh-bokeh-notebooks-owbbybfi/notebooks/tutorial/00%20-%20Introduction%20and%20Setup.ipynb) - same tutorial as before, except you can edit and play with the code!
+  - [Bokeh Tutorial](http://nbviewer.jupyter.org/github/bokeh/bokeh-notebooks/tree/master/tutorial/)
+    - [Introduction and Setup](https://nbviewer.jupyter.org/github/bokeh/bokeh-notebooks/blob/master/tutorial/00%20-%20Introduction%20and%20Setup.ipynb)
+      - [Interactive Version](https://hub.mybinder.org/user/bokeh-bokeh-notebooks-owbbybfi/notebooks/tutorial/00%20-%20Introduction%20and%20Setup.ipynb) - same tutorial as before, except you can edit and play with the code!
   - [Bokeh Examples Gallery](http://bokeh.pydata.org/en/latest/docs/gallery.html)
   - [Bokeh Reference Guide](http://bokeh.pydata.org/en/latest/docs/reference.html)
 - [Bokeh 5-minute Overview](https://nbviewer.jupyter.org/github/bokeh/bokeh-notebooks/blob/master/quickstart/quickstart.ipynb)  
 - [Bokeh Tutorial](https://www.fullstackpython.com/bokeh.html)
+- [GA Bokeh Lecture](https://github.com/aspittel/ga-bokeh-lecture) - from [Ali Spittel's GitHub page](https://github.com/aspittel).

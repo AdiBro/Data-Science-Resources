@@ -77,3 +77,6 @@ explains how solve machine learning problems using Python's popular scikit-learn
 - [Clustering with Sklearn](http://marcharper.codes/2016-07-11/Clustering+with+Scikit-Learn.html) - a Jupyter Notebook with clustering algorithms in Scikit-Learn.
 - ["The 5 Clustering Algorithms Data Scientists Need to Know"](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68) - a blog post on clustering algorithms.
 - [An Introduction to K-means Clustering Analysis](http://blog.galvanize.com/introduction-k-means-cluster-analysis/) - contains a theoretical explanation, pseudocode and Python code examples.
+
+## Books
+- [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - a textbook by By [Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais) and [Shai Ben-David](https://cs.uwaterloo.ca/~shai) from [The School of Computer Science & Engineering](http://www.cs.huji.ac.il) at the [Hebrew University](http://new.huji.ac.il/en). The aim of this textbook is to introduce machine learning, and the algorithmic paradigms it offers, in a principled way. The book provides a theoretical account of the fundamentals underlying machine learning and the mathematical derivations that transform these principles into practical algorithms. 

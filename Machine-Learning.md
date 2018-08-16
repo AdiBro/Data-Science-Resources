@@ -33,6 +33,7 @@ explains how solve machine learning problems using Python's popular scikit-learn
 - [StackExchange Discussion on Approximate TTS, validation Set Sizes](https://stackoverflow.com/questions/13610074/is-there-a-rule-of-thumb-for-how-to-divide-a-dataset-into-training-and-validatio)
 - [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) - excellent read on the bias variance tradeoff.
 - [Bias-Variance Tradeoff Lecture](https://www.youtube.com/watch?v=zrEyxfl2-a8) - a great lecture on bias-variance tradeoff from Caltech's Machine Learning Course - CS 156.
+- [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6) - a blog post I wrote about the Train-Test Split and Cross Validation in Python.
 
 ### Classification
 - [SKLearn Classifier Comparison](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)

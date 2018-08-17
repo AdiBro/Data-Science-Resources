@@ -1,5 +1,6 @@
 # Data Visualization Resources
 - [Python Graph Gallery](https://python-graph-gallery.com) - this website displays hundreds of charts while providing the reproducible Python code.
+- [From Data To Viz](https://www.data-to-viz.com) - ‘From Data to Viz’ is a classification of chart types based on input data format. It comes in the form of a decision tree leading to a set of potentially appropriate visualizations to represent your dataset.
 
 ## Plotting in Pandas
 - [Visualization in Pandas](https://pandas.pydata.org/pandas-docs/stable/visualization.html)

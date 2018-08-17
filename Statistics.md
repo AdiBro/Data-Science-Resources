@@ -8,8 +8,12 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 - [The Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.6/stat-cookbook.pdf) - The probability and statistics cookbook is a succinct representation of various topics in probability theory and statistics. It provides a comprehensive mathematical reference reduced to its essence, rather than aiming for elaborate explanations. [Source](http://statistics.zone); [GitHub Repo](https://github.com/mavam/stat-cookbook).
 - [Khan Academy's Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) classes are a pretty good introduction to statistics and probability.
 
+## Probability 
+- [Basics of Probability for Data Science](https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/) 
+
 ## Bayesian Statistics 
 - [Think Bayes](http://greenteapress.com/wp/think-bayes/) - this is a great book on Bayesian statistics. Free PDF can be downloaded as well.
+- [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - an intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view.
 
 ## Statistics in Python
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
@@ -18,10 +22,11 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 
 ## Statistical Inference
 - [STAT 415 Intro Mathematical Statistics (Penn State)](https://onlinecourses.science.psu.edu/stat414/node/213) - great resource for more details on statistical inference. Its preceding course, [STAT 414 Intro Probability Theory](https://onlinecourses.science.psu.edu/stat414/node/287/) is also worth checking. 
+- [Computer-age Statistical Inference](http://web.stanford.edu/~hastie/CASI/) - A 2016 book that covers various topics in statistical inference that are relevant in this data-science era, with scalable techniques applicable to large datasets. A free PDF can be [downloaded from here](https://web.stanford.edu/~hastie/CASI_files/PDF/casi_corrected_11102017.pdf).
+- [Comprehensive & Practical Inferential Statistics Guide for Data Science](https://www.analyticsvidhya.com/blog/2017/01/comprehensive-practical-guide-inferential-statistics-data-science/)
 - [Khan Academy Section on Confidence Intervals](https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample).
 - [Khan Academy Section on Hypothesis Testing](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample).
 - [StackOverflow Link to Confidence Interval in SciPy](http://stackoverflow.com/questions/28242593/correct-way-to-obtain-confidence-interval-with-scipy).
-- [Computer-age Statistical Inference](http://web.stanford.edu/~hastie/CASI/) - A 2016 book that covers various topics in statistical inference that are relevant in this data-science era, with scalable techniques applicable to large datasets. A free PDF can be [downloaded from here](https://web.stanford.edu/~hastie/CASI_files/PDF/casi_corrected_11102017.pdf).
 
 ## Linear Regression
 - [Introduction to Linear Regression Analysis](http://people.duke.edu/~rnau/regintro.htm) - Duke University Statistical Forecastion class
@@ -30,12 +35,14 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 - [Wikipedia: Residual Sum of Squares](https://en.wikipedia.org/wiki/Residual_sum_of_squares)
 - [Stanford Statistical Learning - Ridge Regression](https://www.youtube.com/watch?v=cSKzqb0EKS0&list=PL5-da3qGB5IB-Xdpj_uXJpLGiRfv9UVXI&index=6) - a video lecture from Stanford's Statistical Learning class.
 - [Stanford Statistical Learning - Lasso Regression](https://www.youtube.com/watch?v=A5I1G1MfUmA&index=7&list=PL5-da3qGB5IB-Xdpj_uXJpLGiRfv9UVXI) - a video lecture from Stanford's Statistical Learning class.
+- [Linear Regression Concepts](http://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html) - from the [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html).
 
 ## Classification
 ### Logistic Regression
 - [Logistic Regression Walkthrough](http://www.mc.vanderbilt.edu/gcrc/workshop_files/2004-11-12.pdf)
 - [Logistic Regression Video Walkthrough](https://www.youtube.com/watch?v=zAULhNrnuL4&noredirect=1)
 - [Odds Ratio Explanation](http://www.wright.edu/%7Ethaddeus.tarpey/ES714glm.pdf)
+- [Logistic Regression Concepts](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html) - from the [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html).
 
 ### K-Nearest Neigbors 
 - [A Detailed Introduction to K-Nearest Neighbor (KNN) Algorithm](https://saravananthirumuruganathan.wordpress.com/2010/05/17/a-detailed-introduction-to-k-nearest-neighbor-knn-algorithm/)

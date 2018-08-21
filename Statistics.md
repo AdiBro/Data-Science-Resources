@@ -4,6 +4,7 @@
 - [Think Stats](https://greenteapress.com/wp/think-stats-2e/) - _Think Stats_ is an introduction to Probability and Statistics for Python programmers.
 - [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)  - This book provides an introduction to statistical learning methods. 
 It's also provides code in R (which is not relevant for our class), but it's really great from the theoretical perspective. Website contains a free PDF.  
+  - [Introduction to Statistical Learning Video Series](https://www.youtube.com/user/dataschool/playlists?shelf_id=4&view=50&sort=dd) - a YouTube playlist of videos accompanying the chapters of the ISL book.
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - This book is a more advanced book, but also a great resource. You can download a PDF version for free. 
 - [The Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.6/stat-cookbook.pdf) - The probability and statistics cookbook is a succinct representation of various topics in probability theory and statistics. It provides a comprehensive mathematical reference reduced to its essence, rather than aiming for elaborate explanations. [Source](http://statistics.zone); [GitHub Repo](https://github.com/mavam/stat-cookbook).
 - [Khan Academy's Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) classes are a pretty good introduction to statistics and probability.

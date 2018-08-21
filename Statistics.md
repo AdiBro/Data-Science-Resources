@@ -14,6 +14,7 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 ## Bayesian Statistics 
 - [Think Bayes](http://greenteapress.com/wp/think-bayes/) - this is a great book on Bayesian statistics. Free PDF can be downloaded as well.
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - an intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view.
+- [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online) - a book about Bayesian reasoning and Machine learning, by David Barber from University College of London [Department of Computer Science](http://www.cs.ucl.ac.uk/home/). An ebook can be downloaded from [here](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf).
 
 ## Statistics in Python
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)

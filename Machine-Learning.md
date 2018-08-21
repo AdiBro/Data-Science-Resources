@@ -1,19 +1,25 @@
-# Machine Learning
+# Machine Learning Resources
+
 - [Scikit-Learn Official Documentation](http://scikit-learn.org/stable/documentation.html)
   - [Scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/index.html)
+    - [An Introduction to Machine Learning with Scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
+    - [A Tutorial on Statistical-Learning for Scientific Data Processing](http://scikit-learn.org/stable/tutorial/statistical_inference/index.html)
   - [Scikit-learn User Guide](http://scikit-learn.org/stable/user_guide.html)
   - [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)
   - [Scikit-Learn - Choosing the Right Estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/) - a flowchart designed to give users a bit of a rough guide on how to approach problems with regard to which estimators to try on your data.
   - [Sklearn Documentation on Feature Selection](http://scikit-learn.org/stable/modules/feature_selection.html)
   - [Scikit-Learn - Model Evaluation](http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation) - quantifying the quality of predictions.
+- [scikit-learn Beginner Tutorials](https://github.com/mmmayo13/scikit-learn-beginners-tutorials) - abridged implementation of the official scikit-learn beginner tutorials.
 - [Chris Albon's Machine Learning Tutorials](https://chrisalbon.com/#machine_learning) - detailed guides on how to do everything data science and machine learning related.
+- [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python) - an excellent ebook with a detailed Machine Learning guide, including real world examples. "Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system."
 - [AI with Python Tutorial](https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm) - machine learning in Python tutorial.
-- [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) - a video series that
-explains how solve machine learning problems using Python's popular scikit-learn library.  
+- [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) - a video series that explains how solve machine learning problems using Python's popular scikit-learn library.  
 - [A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library](https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
+- [Scipy Lecture Notes](http://www.scipy-lectures.org) - one document to learn numerics, science, and data with Python.
 - [Feature Selection For Machine Learning in Python](https://machinelearningmastery.com/feature-selection-machine-learning-python/)
 - [Side-by-side Comparison of Feature Selection Tactics](http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/)
 - [Walkthrough on Feature Selection in Python](https://www.dummies.com/programming/big-data/data-science/how-to-use-python-to-select-the-right-variables-for-data-science/)
+
 
 ## Supervised Learning
 - [Scikit-Learn Supervised Learning Documentation](http://scikit-learn.org/stable/supervised_learning.html)
@@ -37,6 +43,7 @@ explains how solve machine learning problems using Python's popular scikit-learn
 
 ### Classification
 - [SKLearn Classifier Comparison](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
+- [Introduction to Implementing scikit-learn Classifiers](https://github.com/mmmayo13/scikit-learn-classifiers) - an introduction to implementing a number of scikit-learn classifiers, along with some data exploration. Excellent resources, contains examples in Jupyter Notebooks and many useful links. 
 - [Logistic Regression with Scikit-Learn](http://marcharper.codes/2016-06-27/Logistic+Regression.html) - a Jupyter Notebook with a logistic regression example.
 - [Logistic Regression with Statsmodels](http://nbviewer.ipython.org/urls/raw.github.com/carljv/Will_it_Python/master/ARM/ch5/arsenic_wells_switching.ipynb) - another Jupyter Notebook with a logistic regression example.
 - [SKLearn Documentation on Implementing KNN](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html) - K-Neighbors Classifier
@@ -81,3 +88,5 @@ explains how solve machine learning problems using Python's popular scikit-learn
 
 ## Books
 - [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - a textbook by By [Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais) and [Shai Ben-David](https://cs.uwaterloo.ca/~shai) from [The School of Computer Science & Engineering](http://www.cs.huji.ac.il) at the [Hebrew University](http://new.huji.ac.il/en). The aim of this textbook is to introduce machine learning, and the algorithmic paradigms it offers, in a principled way. The book provides a theoretical account of the fundamentals underlying machine learning and the mathematical derivations that transform these principles into practical algorithms. 
+- [Machine Learning: An Algorithmic Perspective](https://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html) - a Machine Learning and Artificial Inteligence book by Stephen Marsland, from the [School of Engineering and Advanced Technology (SEAT)](http://seat.massey.ac.nz/) at [Massey University](http://www.massey.ac.nz/) in Palmerston North, New Zealand. 
+- [Mining of Massive Datasets](http://mmds.org/#ver21) - a book aimed to teach you Data Mining and Machine Learning techniques to process large datasets and extract valuable knowledge from them.

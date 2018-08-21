@@ -58,6 +58,7 @@ It's also provides code in R (which is not relevant for our class), but it's rea
 
 ## Bias-Variance Tradeoff
 - [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) - excellent (and even a must!) read on the bias variance tradeoff.
+- [Accurately Measuring Model Prediction Error](http://scott.fortmann-roe.com/docs/MeasuringError.html) - another excellent article from [Scott Fortmann-Roe](http://scott.fortmann-roe.com).
 - [Bias-Variance Tradeoff Lecture](https://www.youtube.com/watch?v=zrEyxfl2-a8) - a great lecture on bias-variance tradeoff from Caltech's Machine Learning Course - CS 156.
 
 ## Tree Based Methods (Decision Trees and Random Forests)

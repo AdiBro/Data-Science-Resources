@@ -11,6 +11,9 @@
   - [Sklearn Documentation on Feature Selection](http://scikit-learn.org/stable/modules/feature_selection.html)
   - [Scikit-Learn - Model Evaluation](http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation) - quantifying the quality of predictions.
 - [scikit-learn Beginner Tutorials](https://github.com/mmmayo13/scikit-learn-beginners-tutorials) - abridged implementation of the official scikit-learn beginner tutorials.
+- [Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_tutorial) - this repository contains notebooks and other files associated with [Jake Vanderplas](https://github.com/jakevdp)'s Scikit-learn tutorial.
+  - [Index Notebook on GitHub](https://github.com/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb)
+  - [Index Notebook on nbviewer](http://nbviewer.jupyter.org/github/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb)
 - [Chris Albon's Machine Learning Tutorials](https://chrisalbon.com/#machine_learning) - detailed guides on how to do everything data science and machine learning related.
 - [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python) - an excellent ebook with a detailed Machine Learning guide, including real world examples. "Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system."
 - [Machine Learning in Python](https://jakevdp.github.io/PythonDataScienceHandbook/#5.-Machine-Learning) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).

@@ -22,6 +22,7 @@
 ### Jupyter Notebook Tutorials
 - [Jupyter Notebook Quick Start Guide](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html) - a brief step-by-step tutorial on installing and running Jupyter notebooks on local computer for new users who have no familiarity with python. Most useful is the [Running the Jupyter Notebook](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html) part.
 - [Jupyter Notebook for Beginners: A Tutorial](https://towardsdatascience.com/jupyter-notebook-for-beginners-a-tutorial-f55b57c23ada)
+- [IPython and Jupyter Notebook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#1.-IPython:-Beyond-Normal-Python) - a chapter from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).
 
 ### Markdown
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

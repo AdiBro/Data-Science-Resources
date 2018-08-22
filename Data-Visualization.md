@@ -18,7 +18,7 @@
 - [Matplotlib Plotting Tutorial](http://www.scipy-lectures.org/intro/matplotlib/index.html)
 - [Plotting with Matplotlib](https://python-graph-gallery.com/matplotlib/) - from [Python Graph Gallery](https://python-graph-gallery.com).
 - [Visualization with Matplotlib](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#4.-Visualization-with-Matplotlib) - a chapter from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).
-- [Introduction to Matplotlib](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39) - Data Visualization in Python.
+- [Introduction to Matplotlib - Data Visualization in Python](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39) - a blog post with a Matplotlib tutorial.
 - [5 Quick and Easy Data Visualizations in Python (Matplotlib)](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
 - [A Better Way To Add Labels To Bar Charts With Matplotlib](http://composition.al/blog/2015/11/29/a-better-way-to-add-labels-to-bar-charts-with-matplotlib/) - a blog post with a great solution to adding labels to bar charts in Maplotlib.
 

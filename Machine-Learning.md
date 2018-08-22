@@ -1,5 +1,6 @@
 # Machine Learning Resources
 
+## General Machine Learning 
 - [Scikit-Learn Official Documentation](http://scikit-learn.org/stable/documentation.html)
   - [Scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/index.html)
     - [An Introduction to Machine Learning with Scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
@@ -12,6 +13,7 @@
 - [scikit-learn Beginner Tutorials](https://github.com/mmmayo13/scikit-learn-beginners-tutorials) - abridged implementation of the official scikit-learn beginner tutorials.
 - [Chris Albon's Machine Learning Tutorials](https://chrisalbon.com/#machine_learning) - detailed guides on how to do everything data science and machine learning related.
 - [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python) - an excellent ebook with a detailed Machine Learning guide, including real world examples. "Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system."
+- [Machine Learning in Python](https://jakevdp.github.io/PythonDataScienceHandbook/#5.-Machine-Learning) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).
 - [AI with Python Tutorial](https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm) - machine learning in Python tutorial.
 - [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) - a video series that explains how solve machine learning problems using Python's popular scikit-learn library.  
 - [A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library](https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
@@ -89,4 +91,6 @@
 ## Books
 - [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - a textbook by By [Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais) and [Shai Ben-David](https://cs.uwaterloo.ca/~shai) from [The School of Computer Science & Engineering](http://www.cs.huji.ac.il) at the [Hebrew University](http://new.huji.ac.il/en). The aim of this textbook is to introduce machine learning, and the algorithmic paradigms it offers, in a principled way. The book provides a theoretical account of the fundamentals underlying machine learning and the mathematical derivations that transform these principles into practical algorithms. 
 - [Machine Learning: An Algorithmic Perspective](https://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html) - a Machine Learning and Artificial Inteligence book by Stephen Marsland, from the [School of Engineering and Advanced Technology (SEAT)](http://seat.massey.ac.nz/) at [Massey University](http://www.massey.ac.nz/) in Palmerston North, New Zealand. 
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 - [Mining of Massive Datasets](http://mmds.org/#ver21) - a book aimed to teach you Data Mining and Machine Learning techniques to process large datasets and extract valuable knowledge from them.
+

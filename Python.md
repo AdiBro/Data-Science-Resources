@@ -23,6 +23,8 @@ great (graphical) explanation of list comprehension in Python.
 - [Python Tutorial](http://www.tutorialspoint.com/python3/) - a very detailed Python tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com). 
 - [Dive Into Python 3](http://www.diveintopython3.net) - a hands-on guide to Python 3 and its differences from Python 2.
   - [Dive Into Python](http://www.diveintopython.net) - the original book/guide (written for Python 2).
+- [A Whirlwind Tour of Python](https://www.safaribooksonline.com/library/view/a-whirlwind-tour/9781492037859/) - a free tutorial for Python - "a brief yet comprehensive introduction to Python for engineers, researchers, and data scientists who are already familiar with another programming language." Also available in a [free PDF file](https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
+  - [A Whirlwind Tour of Python - GitHub Repo](https://github.com/jakevdp/WhirlwindTourOfPython) - a repository that contains the Jupyter Notebooks behind the O'Reilly report, A Whirlwind Tour of Python.
   
 ## Python for Data Analysis
 - [Python and Data Analysis](https://chrisalbon.com/#python) - excellent guide for data anaylsis with Python - basic Python, data  wrangling, data visualization and more. Part of [Chris Albon's excellent website](https://chrisalbon.com) 

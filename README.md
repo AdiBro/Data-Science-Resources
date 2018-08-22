@@ -14,6 +14,8 @@ This repository contains resources and cheatsheets that should be helpful for an
 
 - [Statistics](Statistics.md) - contains mostly theoretical reading to deepen your understanding of statistics.
 
+- [Mathematics](Math.md) - contains resources for math topics that are relevant for data scientists.
+
 - [Datasets](Datasets.md) -  links to interesting datasets.
 
 - [Development Environment](Enviroment.md) - contains development environment resources: Command Line, Git, Jupyter Notebook, etc. 

@@ -11,3 +11,6 @@
 - [20 Free Big Data Sources Everyone Should Know](http://www.smartdatacollective.com/big-data-20-free-big-data-sources-everyone-should-know/)
 - [Open Data Sources](https://github.com/datasciencemasters/data) 
 - ["A Plethora of Data Set Repositories"](https://www.datasciencecentral.com/profiles/blogs/a-plethora-of-data-set-repositories) - these 19 'sets of data sets' cover free or public data from various industries, including small and large, structured and unstructured data sets. From [Data Science Centeral](https://www.datasciencecentral.com/).
+- [The 50 Best Free Datasets for Machine Learning"](https://gengo.ai/datasets/the-50-best-free-datasets-for-machine-learning/) - "What are some open datasets for machine learning? We at Gengo decided to create the ultimate cheat sheet for high quality datasets. These range from the vast (looking at you, Kaggle) or the highly specific (data for self-driving cars)."
+- [Google's Dataset Search](https://toolbox.google.com/datasetsearch) - "Dataset Search enables users to find datasets stored across thousands of repositories on the Web, making these datasets universally accessible and useful."
+

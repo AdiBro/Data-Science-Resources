@@ -21,6 +21,7 @@
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
 - [Basic Statistics in Python: Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
 - [Chris Albon's Statistics Tutorials](https://chrisalbon.com/#statistics) 
+- [Receiver Operating Characteristic Curves Demystified (in Python)](https://www.kdnuggets.com/2018/07/receiver-operating-characteristic-curves-demystified-python.html) - how to plot an ROC curve using Python and an explanation of the characteristics of a basic ROC curve.
 
 ## Statistical Inference
 - [STAT 415 Intro Mathematical Statistics (Penn State)](https://onlinecourses.science.psu.edu/stat414/node/213) - great resource for more details on statistical inference. Its preceding course, [STAT 414 Intro Probability Theory](https://onlinecourses.science.psu.edu/stat414/node/287/) is also worth checking. 
@@ -64,6 +65,8 @@
 ## Tree Based Methods (Decision Trees and Random Forests)
 - [Random Forests Guide](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)
 - [How does randomization in a random forest work?](https://www.quora.com/How-does-randomization-in-a-random-forest-work?redirected_qid=212859)
+- ["Decision Trees - Decoded"](https://medium.com/data-science-group-iitr/decision-trees-decoded-c70b4f7ff542) - a blog post on tree based methods, which consists of Decision Trees, Random Forest and Boosting methods.
+- ["Bagging - Unraveled"](https://medium.com/data-science-group-iitr/bagging-unraveled-8141ca078ccc) - a blog post on Bagging or Bootstrap Aggregating.
 
 ## Clustering
 - [A Tutorial on Clustering Algorithms](http://home.deib.polimi.it/matteucc/Clustering/tutorial_html/)

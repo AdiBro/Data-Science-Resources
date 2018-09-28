@@ -4,6 +4,7 @@
 - [A Gentle Introduction To Learning Calculus](https://betterexplained.com/articles/a-gentle-introduction-to-learning-calculus/)
 - [Khan Academy's Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
 - [Calculus Concepts](http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html) - a writeup that describes the key ideas of calculus which you’ll need to know to understand machine learning concepts, taken from [Machine Learning Cheatsheet](http://ml-cheatsheet.readthedocs.io/en/latest/index.html). 
+- [Essential Math for Data Science:  ‘Why’ and ‘How’](https://www.kdnuggets.com/2018/09/essential-math-data-science.html) - a blog post with an abundance of math for data science resources. 
 
 ### Videos
 - [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) - a video series with a great introduction to calculus. "he goal here is to make calculus feel like something that you yourself could have discovered."

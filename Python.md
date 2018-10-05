@@ -45,11 +45,11 @@ great (graphical) explanation of list comprehension in Python.
 ## Python for Data Analysis
 - [Python and Data Analysis](https://chrisalbon.com/#python) - excellent guide for data anaylsis with Python - basic Python, data  wrangling, data visualization and more. Part of [Chris Albon's excellent website](https://chrisalbon.com) 
 - [Python for Data Analysis](https://github.com/wesm/pydata-book) - materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney.
-- [Python - Data Science Tutorial](https://www.tutorialspoint.com/python/python_data_science.htm) - another tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com).
 - [Python for Data Analysis](http://hamelg.blogspot.com/2015/12/python-for-data-analysis-index.html) - a blog with a detailed guide for data analysis with Python from A (Python basics) to Z (building predictive models in Python).
 - [Data Exploration in Python](https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Data-Exploration-in-Python.pdf) - using NumPy, Pandas and Matplotlib. 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - this website contains the full text of the [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas.
   - The content is also available on a [GitHub Repo](https://github.com/jakevdp/PythonDataScienceHandbook) in the form of Jupyter notebooks.
+- [Python - Data Science Tutorial](https://www.tutorialspoint.com/python/python_data_science.htm) - another tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com).  
 
 ### Pandas 
 #### Documentation and Official Tutorials
@@ -68,12 +68,13 @@ great (graphical) explanation of list comprehension in Python.
 #### Other Tutorials and Guides
 - [Introduction to Pandas](http://www.synesthesiam.com/posts/an-introduction-to-pandas.html) 
 - [A Quick Introduction to the “Pandas” Python Library](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673) - (shamelessly promoting my content) a tutorial for Pandas I wrote. 
-- [Python Pandas Tutorial](https://www.tutorialspoint.com/python_pandas/index.htm) - a very detailed Pandas tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com). 
+
 - [Pandas Tutorial: Aggregation and Grouping](https://data36.com/pandas-tutorial-2-aggregation-and-grouping/) 
 - [Pandas Tutorial: Important Data Formatting Methods (merge, sort, reset_index, fillna)](https://data36.com/pandas-tutorial-3-important-data-formatting-methods-merge-sort-reset_index-fillna/)
 - [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/#3.-Data-Manipulation-with-Pandas) - from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
 - [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - a BitBucket repo with Pandas lessons, cookbooks and tools.
 - [Pandas Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) - IPython Notebook(s) demonstrating pandas functionality. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
+- [Python Pandas Tutorial](https://www.tutorialspoint.com/python_pandas/index.htm) - a very detailed Pandas tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com). 
 - [Difference between using 'loc' and Square Brackets for Selecting Columns](https://stackoverflow.com/questions/48409128/what-is-the-difference-between-using-loc-and-using-just-square-brackets-to-filte) - a Stackoverflow post on what is the difference between using loc and using just square brackets to filter for columns in Pandas/Python?
 - [List of Resources for Learning Data Analysis with Pandas](http://www.dataschool.io/best-python-pandas-resources/) - from Data School.
 

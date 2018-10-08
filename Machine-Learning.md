@@ -20,6 +20,7 @@
 - [Chris Albon's Machine Learning Tutorials](https://chrisalbon.com/#machine_learning) - detailed guides on how to do everything data science and machine learning related.
 - [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python) - an excellent ebook with a detailed Machine Learning guide, including real world examples. "Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system."
 - [Machine Learning in Python](https://jakevdp.github.io/PythonDataScienceHandbook/#5.-Machine-Learning) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).
+- [Learn Data Science](https://github.com/nborwankar/LearnDataScience) - a collection of Data Science Learning materials in the form of Jupyter Notebooks.
 - [AI with Python Tutorial](https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm) - machine learning in Python tutorial.
 - [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) - a video series that explains how solve machine learning problems using Python's popular scikit-learn library.  
 - [A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library](https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)

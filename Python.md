@@ -93,10 +93,7 @@ great (graphical) explanation of list comprehension in Python.
 ### Statistics in Python
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)
 - [Basic Statistics in Python: Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
-- [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9) - a quick introduction to linear regression in Python I wrote.
-- [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6) - a blog post I wrote on train-test split and cross validation in Python.
-- [An Introduction to Statistical Learning with Python Code](https://github.com/JWarmenhoven/ISLR-python) - his repository contains Python code for a selection of tables, figures and LAB sections from the book 'An Introduction to Statistical Learning with Applications in R' by James, Witten, Hastie, Tibshirani (2013). The book was originally written with examples in R, [Jordi Warmenhoven](https://github.com/JWarmenhoven) "translates" it into Python code. 
-- [Receiver Operating Characteristic Curves Demystified (in Python)](https://www.kdnuggets.com/2018/07/receiver-operating-characteristic-curves-demystified-python.html) - how to plot an ROC curve using Python and an explanation of the characteristics of a basic ROC curve.
+- [Chris Albon's Statistics Tutorials](https://chrisalbon.com/#statistics)
 
 ### NumPy
 - [NumPy Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) - official NumPy tutorial.

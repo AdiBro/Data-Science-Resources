@@ -64,7 +64,8 @@ Statistical Rethinking is an incredible good introductory book to Bayesian Stati
 ## Bias-Variance Tradeoff
 - [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) - excellent (and even a must!) read on the bias variance tradeoff.
 - [Accurately Measuring Model Prediction Error](http://scott.fortmann-roe.com/docs/MeasuringError.html) - another excellent article from [Scott Fortmann-Roe](http://scott.fortmann-roe.com).
-- [Bias-Variance Tradeoff Lecture](https://www.youtube.com/watch?v=zrEyxfl2-a8) - a great lecture on bias-variance tradeoff from Caltech's Machine Learning Course - CS 156.
+- [Bias-Variance Tradeoff Lecture](https://youtu.be/zrEyxfl2-a8) - a great lecture on bias-variance tradeoff from Caltech's Machine Learning Course - CS 156.
+- [Stanford Lecture on Cross Validation](https://www.youtube.com/watch?v=_2ij6eaaSl0)
 
 ## Tree Based Methods (Decision Trees and Random Forests)
 - [Random Forests Guide](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)

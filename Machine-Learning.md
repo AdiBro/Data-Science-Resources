@@ -98,6 +98,7 @@
 ### Principal Component Analysis
 - [Principal component analysis (PCA)](http://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca) - SKLearn documentation on PCA. 
 - [A One-Stop Shop for Principal Component Analysis](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c) - a blog post with an excellent introduction to Principal Component Analysis.
+- [Principal Component Analysis in 3 Simple Steps](https://sebastianraschka.com/Articles/2015_pca_in_3_steps.html)
 - [Principal Component Analysis Explained Visually](http://setosa.io/ev/principal-component-analysis/)
 
 

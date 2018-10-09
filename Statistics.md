@@ -16,6 +16,9 @@
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - an intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view.
   - The GitHub repo for the book can be found [HERE](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online) - a book about Bayesian reasoning and Machine learning, by David Barber from University College of London [Department of Computer Science](http://www.cs.ucl.ac.uk/home/). An ebook can be downloaded from [here](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/091117.pdf).
+- [Doing Bayesian Data Analysis - Python/PyMC3](https://github.com/JWarmenhoven/DBDA-python) - This repository contains Python/PyMC3 code for a selection of models and figures from the book ['Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan', Second Edition, by John Kruschke (2015)](https://sites.google.com/site/doingbayesiandataanalysis/). 
+- [Statistical Rethinking with Python and PyMC3](https://github.com/pymc-devs/resources/tree/master/Rethinking) - 
+Statistical Rethinking is an incredible good introductory book to Bayesian Statistics, its follows a Jaynesian and practical approach with very good examples and clear explanations. In this repository the codes were ported (originally in R and Stan) in the book to PyMC3. 
 
 ## Statistics in Python
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)

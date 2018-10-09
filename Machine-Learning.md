@@ -43,14 +43,6 @@
 - [Scikit-Learn Regression Metrics](http://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics)
 - [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9) - a quick introduction to linear regression in Python I wrote.
 
-### Train-Test Split, Cross Validation and Bias-Variance Tradeoff
-- [Sklearn Documentation on Train Test Split](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
-- [Sklearn Documentation on Cross Validation](http://scikit-learn.org/stable/modules/cross_validation.html)
-- [KFold Cross Validation](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html) - from the Sklearn documentation. 
-- [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6) - a blog post I wrote about the Train-Test Split and Cross Validation in Python.
-- [StackExchange Discussion on Approximate TTS, validation Set Sizes](https://stackoverflow.com/questions/13610074/is-there-a-rule-of-thumb-for-how-to-divide-a-dataset-into-training-and-validatio)
-
-
 ### Classification
 - [SKLearn Classifier Comparison](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
 - [Introduction to Implementing scikit-learn Classifiers](https://github.com/mmmayo13/scikit-learn-classifiers) - an introduction to implementing a number of scikit-learn classifiers, along with some data exploration. Excellent resources, contains examples in Jupyter Notebooks and many useful links. 
@@ -60,6 +52,13 @@
 - [K-Nearest Neighbors Examples](http://marcharper.codes/2016-06-22/Classification.html) - an example of K-Nearest Neighbors Classifier (in a Jupyter Notebook).
 - [Precision-Recall](http://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html#sphx-glr-auto-examples-model-selection-plot-precision-recall-py)
 - [Receiver Operating Characteristic Curves Demystified (in Python)](https://www.kdnuggets.com/2018/07/receiver-operating-characteristic-curves-demystified-python.html) - how to plot an ROC curve using Python and an explanation of the characteristics of a basic ROC curve.
+
+### Train-Test Split, Cross Validation and Bias-Variance Tradeoff
+- [Sklearn Documentation on Train Test Split](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
+- [Sklearn Documentation on Cross Validation](http://scikit-learn.org/stable/modules/cross_validation.html)
+- [KFold Cross Validation](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html) - from the Sklearn documentation. 
+- [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6) - a blog post I wrote about the Train-Test Split and Cross Validation in Python.
+- [StackExchange Discussion on Approximate TTS, validation Set Sizes](https://stackoverflow.com/questions/13610074/is-there-a-rule-of-thumb-for-how-to-divide-a-dataset-into-training-and-validatio)
 
 ### Tree Based Methods
 - [Decision Trees in Scikit-learn](http://scikit-learn.org/stable/modules/tree.html)

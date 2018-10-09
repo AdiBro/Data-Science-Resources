@@ -68,7 +68,6 @@ great (graphical) explanation of list comprehension in Python.
 #### Other Tutorials and Guides
 - [Introduction to Pandas](http://www.synesthesiam.com/posts/an-introduction-to-pandas.html) 
 - [A Quick Introduction to the “Pandas” Python Library](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673) - (shamelessly promoting my content) a tutorial for Pandas I wrote. 
-
 - [Pandas Tutorial: Aggregation and Grouping](https://data36.com/pandas-tutorial-2-aggregation-and-grouping/) 
 - [Pandas Tutorial: Important Data Formatting Methods (merge, sort, reset_index, fillna)](https://data36.com/pandas-tutorial-3-important-data-formatting-methods-merge-sort-reset_index-fillna/)
 - [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/#3.-Data-Manipulation-with-Pandas) - from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).

@@ -36,11 +36,11 @@
 - [Introduction to Machine Learning in Python with Scikit-Learn (video series)](https://www.dataschool.io/machine-learning-with-scikit-learn/) - a series of scikit-learn video tutorials, from [Data School](https://www.dataschool.io). There's also a [GitHub repository with Jupyter Notebooks](https://github.com/justmarkham/scikit-learn-videos).
 - [An Introduction to Statistical Learning with Python Code](https://github.com/JWarmenhoven/ISLR-python) - his repository contains Python code for a selection of tables, figures and LAB sections from the book 'An Introduction to Statistical Learning with Applications in R' by James, Witten, Hastie, Tibshirani (2013). The book was originally written with examples in R, [Jordi Warmenhoven](https://github.com/JWarmenhoven) "translates" it into Python code. 
 
-## Regression
+### Regression
 - [Scikit-Learn Generalized Linear Models Documentation](http://scikit-learn.org/stable/modules/linear_model.html)
+  - [Scikit-Learn Regression Metrics](http://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics)
+  - Scikit-learn documentation for [Lasso](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html), [Ridge](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html), and [Elastic Net](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html) Regression.
   - Scikit-learn examples for [Lasso](http://scikit-learn.org/stable/auto_examples/linear_model/plot_lasso_lars.html) and [Ridge](http://scikit-learn.org/stable/auto_examples/linear_model/plot_ridge_path.html) Regression.
-- Scikit-learn documentation for [Lasso](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html),  [Ridge](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html), and [Elastic Net](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html) Regression.
-- [Scikit-Learn Regression Metrics](http://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics)
 - [Linear Regression with Statsmodels and Scikit-Learn](http://marcharper.codes/2016-06-14/Linear+Regression+with+Statsmodels+and+Scikit-Learn.html) - a Jupyter Notebook with linear regression examples in Statsmodels and Scikit-Learn.
 - [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9) - a quick introduction to linear regression in Python I wrote.
 - [Scikit-Learn Regularization and Gradient Descent](http://marcharper.codes/2016-06-21/Regularization+Examples.html) - examples of regularization of linear models.

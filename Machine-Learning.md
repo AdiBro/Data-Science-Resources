@@ -1,6 +1,7 @@
 # Machine Learning Resources
 
-## General Machine Learning 
+## General Machine Learning
+### Official Documentation and Tutorials
 - [Scikit-Learn Official Documentation](http://scikit-learn.org/stable/documentation.html)
   - [Scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/index.html)
     - [An Introduction to Machine Learning with Scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
@@ -10,22 +11,25 @@
   - [Scikit-Learn - Choosing the Right Estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/) - a flowchart designed to give users a bit of a rough guide on how to approach problems with regard to which estimators to try on your data.
   - [Sklearn Documentation on Feature Selection](http://scikit-learn.org/stable/modules/feature_selection.html)
   - [Scikit-Learn - Model Evaluation](http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation) - quantifying the quality of predictions.
+  
+### Other Tutorials and Guides  
 - [scikit-learn Beginner Tutorials](https://github.com/mmmayo13/scikit-learn-beginners-tutorials) - abridged implementation of the official scikit-learn beginner tutorials.
 - [Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_tutorial) - this repository contains notebooks and other files associated with [Jake Vanderplas](https://github.com/jakevdp)'s Scikit-learn tutorial.
   - [Index Notebook on GitHub](https://github.com/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb)
   - [Index Notebook on nbviewer](http://nbviewer.jupyter.org/github/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb)
+- [Chris Albon's Machine Learning Tutorials](https://chrisalbon.com/#machine_learning) - detailed guides on how to do everything data science and machine learning related.
+- [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python) - an excellent ebook with a detailed Machine Learning guide, including real world examples. "Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system."
+- [Machine Learning in Python](https://jakevdp.github.io/PythonDataScienceHandbook/#5.-Machine-Learning) - chapter 5, Machine Learning in Python from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).
 - From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks):
   - [Scikit-Learn notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#scikit-learn) - IPython Notebook(s) demonstrating scikit-learn functionality.
   - [SciPy Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#statistical-inference-scipy) - IPython Notebook(s) demonstrating statistical inference with SciPy functionality.
-- [Chris Albon's Machine Learning Tutorials](https://chrisalbon.com/#machine_learning) - detailed guides on how to do everything data science and machine learning related.
-- [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python) - an excellent ebook with a detailed Machine Learning guide, including real world examples. "Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system."
-- [Machine Learning in Python](https://jakevdp.github.io/PythonDataScienceHandbook/#5.-Machine-Learning) from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).
 - [Learn Data Science](https://github.com/nborwankar/LearnDataScience) - a collection of Data Science Learning materials in the form of Jupyter Notebooks.
-- [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource.
 - [AI with Python Tutorial](https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm) - machine learning in Python tutorial.
 - [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) - a video series that explains how solve machine learning problems using Python's popular scikit-learn library.  
 - [A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library](https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
 - [Scipy Lecture Notes](http://www.scipy-lectures.org) - one document to learn numerics, science, and data with Python.
+
+#### Feature Selection
 - [Feature Selection For Machine Learning in Python](https://machinelearningmastery.com/feature-selection-machine-learning-python/)
 - [Side-by-side Comparison of Feature Selection Tactics](http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/)
 - [Walkthrough on Feature Selection in Python](https://www.dummies.com/programming/big-data/data-science/how-to-use-python-to-select-the-right-variables-for-data-science/)
@@ -110,9 +114,9 @@
 
 
 ## Books
+- [Statistics and Machine Learning in Python](https://tinyurl.com/yabo73nt)
+- [Data Science Python Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command line notebooks.
 - [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - a textbook by By [Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais) and [Shai Ben-David](https://cs.uwaterloo.ca/~shai) from [The School of Computer Science & Engineering](http://www.cs.huji.ac.il) at the [Hebrew University](http://new.huji.ac.il/en). The aim of this textbook is to introduce machine learning, and the algorithmic paradigms it offers, in a principled way. The book provides a theoretical account of the fundamentals underlying machine learning and the mathematical derivations that transform these principles into practical algorithms. 
 - [Machine Learning: An Algorithmic Perspective](https://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html) - a Machine Learning and Artificial Inteligence book by Stephen Marsland, from the [School of Engineering and Advanced Technology (SEAT)](http://seat.massey.ac.nz/) at [Massey University](http://www.massey.ac.nz/) in Palmerston North, New Zealand. 
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-- [Data Science Python Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command line notebooks.
 - [Mining of Massive Datasets](http://mmds.org/#ver21) - a book aimed to teach you Data Mining and Machine Learning techniques to process large datasets and extract valuable knowledge from them.
 

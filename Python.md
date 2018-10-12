@@ -5,15 +5,16 @@
 - [Python 3 Official Documentation](https://docs.python.org/3/)
 - [Python Official Beginners Guide](https://wiki.python.org/moin/BeginnersGuide)
 - [Learn Python Tutorial](http://www.learnpython.org)
-- [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) - _Think Python_ is an introduction to Python programming for beginners. You can download a free PDF, view online and even access the Python code.
 - [Python Tutorial](http://www.tutorialspoint.com/python3/) - a very detailed Python tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com). 
+- [Python Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#python-data) - IPython Notebook(s) demonstrating Python functionality geared towards data analysis. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
+- [Real Python Tutorials](http://www.realpython.com) - "at Real Python you can learn all things Python from the ground up. Everything from the absolute basics of Python, to web development and web scraping, to data visualization, and beyond."
+
+### Books (Basic/General Python)
+- [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) - _Think Python_ is an introduction to Python programming for beginners. You can download a free PDF, view online and even access the Python code.
 - [Dive Into Python 3](http://www.diveintopython3.net) - a hands-on guide to Python 3 and its differences from Python 2.
   - [Dive Into Python](http://www.diveintopython.net) - the original book/guide (written for Python 2).
 - [A Whirlwind Tour of Python](https://www.safaribooksonline.com/library/view/a-whirlwind-tour/9781492037859/) - a free tutorial for Python - "a brief yet comprehensive introduction to Python for engineers, researchers, and data scientists who are already familiar with another programming language." Also available in a [free PDF file](https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
   - [A Whirlwind Tour of Python - GitHub Repo](https://github.com/jakevdp/WhirlwindTourOfPython) - a repository that contains the Jupyter Notebooks behind the O'Reilly report, A Whirlwind Tour of Python. 
-- [Python Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#python-data) - IPython Notebook(s) demonstrating Python functionality geared towards data analysis. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
-- [Real Python Tutorials](http://www.realpython.com) - "at Real Python you can learn all things Python from the ground up. Everything from the absolute basics of Python, to web development and web scraping, to data visualization, and beyond."
-
 
 ### Python Data Types, Control Flow and Functions
 #### Python Data Types and Variables
@@ -42,13 +43,17 @@ great (graphical) explanation of list comprehension in Python.
 - [Python Practice Book - Functions](https://anandology.com/python-practice-book/getting-started.html#functions)
 - [Learn Python - Functions](https://www.learnpython.org/en/Functions)
 
+### Websites to Practice Python/Coding
+- [Codewars](https://www.codewars.com)
+- [HackerRank](https://www.hackerrank.com)
+- [CodeSignal](https://codesignal.com) 
+- [Exercism](https://exercism.io)
+- [Project Euler](https://projecteuler.net) - a website dedicated to **a lot** of computational problems intended to be solved with computer programs.
+
 ## Python for Data Analysis
 - [Python and Data Analysis](https://chrisalbon.com/#python) - excellent guide for data anaylsis with Python - basic Python, data  wrangling, data visualization and more. Part of [Chris Albon's excellent website](https://chrisalbon.com) 
-- [Python for Data Analysis](https://github.com/wesm/pydata-book) - materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney.
 - [Python for Data Analysis](http://hamelg.blogspot.com/2015/12/python-for-data-analysis-index.html) - a blog with a detailed guide for data analysis with Python from A (Python basics) to Z (building predictive models in Python).
 - [Data Exploration in Python](https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Data-Exploration-in-Python.pdf) - using NumPy, Pandas and Matplotlib. 
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - this website contains the full text of the [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas.
-  - The content is also available on a [GitHub Repo](https://github.com/jakevdp/PythonDataScienceHandbook) in the form of Jupyter notebooks.
 - [Python - Data Science Tutorial](https://www.tutorialspoint.com/python/python_data_science.htm) - another tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com).  
 
 ### Pandas 
@@ -103,9 +108,10 @@ great (graphical) explanation of list comprehension in Python.
 - [A Quick Introduction to the NumPy Library](https://towardsdatascience.com/a-quick-introduction-to-the-numpy-library-6f61b7dee4db) - another shameless promotion of my content: a quick intro to NumPy.
 - [NumPy Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#numpy) - IPython Notebook(s) demonstrating NumPy functionality. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
 
-## Websites to Practice Python/Coding
-- [Codewars](https://www.codewars.com)
-- [HackerRank](https://www.hackerrank.com)
-- [CodeSignal](https://codesignal.com) 
-- [Exercism](https://exercism.io)
-- [Project Euler](https://projecteuler.net) - a website dedicated to **a lot** of computational problems intended to be solved with computer programs.
+### Books (Python for Data Analysis) 
+- [Python for Data Analysis](https://github.com/wesm/pydata-book) - materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney.
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - this website contains the full text of the [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas.
+  - The content is also available on a [GitHub Repo](https://github.com/jakevdp/PythonDataScienceHandbook) in the form of Jupyter notebooks.
+- [Data Mining with Python](http://www2.compute.dtu.dk/pubdb/views/edoc_download.php/6814/pdf/imm6814.pdf)
+
+

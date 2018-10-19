@@ -19,6 +19,7 @@
 - [A Programmer’s Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/)
 - [Linear Algebra Concepts](http://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html) - a brief overview of basic linear algebra concepts, taken from [Machine Learning Cheatsheet](http://ml-cheatsheet.readthedocs.io/en/latest/index.html).
 - [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) - a linear algebra book from [Dr. Gilbert Strang](http://math.mit.edu/~gs/), a professor of mathematics from Massachusetts Institute of Technology. 
+- [Linear Algebra and Calculus Refresher](https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus) - from Stanford University's CS 229 - Machine Learning course. 
 
 ### Videos
 - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - a YouTube playlist of videos that provide an excellent introduction to linear algebra. "A geometric understanding of matrices, determinants, eigen-stuffs and more."

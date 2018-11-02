@@ -76,6 +76,7 @@ Statistical Rethinking is an incredible good introductory book to Bayesian Stati
 ### Evaluating Classifiers: Confusion Matrix, AUC-ROC
 - [Classification Metrics](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks#classification-metrics)
 - [An Introduction to Confusion Matrix Terminology](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/) - simple guide to confusion matrix terminology, from [Data School](https://www.dataschool.io). 
+  - [Making Sense of the Confusion Matrix](https://www.youtube.com/watch?v=8Oog7TXHvFY) - a **video** based on the confusion matrix guide. 
 - [Precision, Recall, Sensitivity and Specificity](https://uberpython.wordpress.com/2012/01/01/precision-recall-sensitivity-and-specificity/) - a useful discussion on confusion matrices.
 - [Data School's Video and Transcript on ROC/AUC](https://www.dataschool.io/roc-curves-and-auc-explained/)
 - [A Deeper Introduction to ROC](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf)

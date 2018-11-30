@@ -89,6 +89,10 @@ great (graphical) explanation of list comprehension in Python.
 - [10-minute Tour of Pandas](https://vimeo.com/59324550) - by Wes McKinney.
 - [Pandas From The Ground Up - PyCon 2015](https://youtu.be/5JnMutdy6Fw?t=1s) - a video lecture on Pandas by Brandon Rhodes.
   - [Materials of the Talk ](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
+  
+#### Pandas Exercises
+- [101 Pandas Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-pandas-exercises-python/) - 101 python pandas exercises are designed to challenge your logical muscle and to help internalize data manipulation with python’s favorite package for data analysis. The questions are of 3 levels of difficulties with L1 being the easiest to L3 being the hardest.
+- [Pandas Exercises](https://github.com/guipsamora/pandas_exercises) - practice your pandas skills: a repo  with exercises to practice Pandas. 
 
 ## Exploratory Data Analysis
 - [Introduction to Exploratory Data Analysis](https://github.com/ritikabhasker/Intro-to-EDA) - a GitHub repo of a workshop and lesson on Exploratory Data Analysis from [Ritika Bhasker's GitHub](https://github.com/ritikabhasker).

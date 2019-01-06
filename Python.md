@@ -48,6 +48,7 @@ great (graphical) explanation of list comprehension in Python.
 - [HackerRank](https://www.hackerrank.com)
 - [CodeSignal](https://codesignal.com) 
 - [Exercism](https://exercism.io)
+- [Codingbat](https://codingbat.com/python) - contains Python exercises. For beginners and intermediate-level programmers.
 - [Project Euler](https://projecteuler.net) - a website dedicated to **a lot** of computational problems intended to be solved with computer programs.
 
 ## Python for Data Analysis

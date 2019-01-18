@@ -94,6 +94,7 @@ great (graphical) explanation of list comprehension in Python.
 #### Pandas Exercises
 - [101 Pandas Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-pandas-exercises-python/) - 101 python pandas exercises are designed to challenge your logical muscle and to help internalize data manipulation with python’s favorite package for data analysis. The questions are of 3 levels of difficulties with L1 being the easiest to L3 being the hardest.
 - [Pandas Exercises](https://github.com/guipsamora/pandas_exercises) - practice your pandas skills: a repo  with exercises to practice Pandas. 
+- [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles) - 100 data puzzles for pandas, ranging from short and simple to super tricky.
 
 ## Exploratory Data Analysis
 - [Introduction to Exploratory Data Analysis](https://github.com/ritikabhasker/Intro-to-EDA) - a GitHub repo of a workshop and lesson on Exploratory Data Analysis from [Ritika Bhasker's GitHub](https://github.com/ritikabhasker).

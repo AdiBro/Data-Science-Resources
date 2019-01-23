@@ -24,6 +24,7 @@
 - [Jupyter Notebook for Beginners: A Tutorial](https://towardsdatascience.com/jupyter-notebook-for-beginners-a-tutorial-f55b57c23ada)
 - [Jupyter Notebook for Beginners: A Tutorial](https://www.kdnuggets.com/2018/05/jupyter-notebook-beginners-tutorial.html)
 - [IPython](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#1.-IPython:-Beyond-Normal-Python) - a chapter from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).
+- [Comprehensive Beginner’s Guide to Jupyter Notebooks for Data Science & Machine Learning](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/)
 
 ### Markdown
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

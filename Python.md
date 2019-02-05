@@ -2,19 +2,24 @@
 
 ## General/Basic Python
 ### Documentation and Tutorials
-- [Python 3 Official Documentation](https://docs.python.org/3/)
+#### Documentation
+- [Python 3 Official Documentation](https://docs.python.org/3/) - this is the documentation for Python 3.
+  - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html) - the official Python tutorial.
+  - [The Python Standard Library](https://docs.python.org/3/library/index.html) - this library reference manual describes the standard library (built-in functions, constants, types, etc) that is distributed with Python.
 - [Python Official Beginners Guide](https://wiki.python.org/moin/BeginnersGuide)
+
+#### Tutorials
 - [Learn Python Tutorial](http://www.learnpython.org)
-- [Python Tutorial](http://www.tutorialspoint.com/python3/) - a very detailed Python tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com). 
+- [Python Tutorial](http://www.tutorialspoint.com/python3/) - a very detailed Python tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com).
 - [Python Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#python-data) - IPython Notebook(s) demonstrating Python functionality geared towards data analysis. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
 - [Real Python Tutorials](http://www.realpython.com) - "at Real Python you can learn all things Python from the ground up. Everything from the absolute basics of Python, to web development and web scraping, to data visualization, and beyond."
 
 ### Books (Basic/General Python)
 - [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) - _Think Python_ is an introduction to Python programming for beginners. You can download a free PDF, view online and even access the Python code.
-- [Dive Into Python 3](http://www.diveintopython3.net) - a hands-on guide to Python 3 and its differences from Python 2.
-  - [Dive Into Python](http://www.diveintopython.net) - the original book/guide (written for Python 2).
 - [A Whirlwind Tour of Python](https://www.safaribooksonline.com/library/view/a-whirlwind-tour/9781492037859/) - a free tutorial for Python - "a brief yet comprehensive introduction to Python for engineers, researchers, and data scientists who are already familiar with another programming language." Also available in a [free PDF file](https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
-  - [A Whirlwind Tour of Python - GitHub Repo](https://github.com/jakevdp/WhirlwindTourOfPython) - a repository that contains the Jupyter Notebooks behind the O'Reilly report, A Whirlwind Tour of Python. 
+  - [A Whirlwind Tour of Python - GitHub Repo](https://github.com/jakevdp/WhirlwindTourOfPython) - a repository that contains the Jupyter Notebooks behind the O'Reilly report, A Whirlwind Tour of Python.
+- [Dive Into Python 3](https://www.diveinto.org/python3/) - a hands-on guide to Python 3 and its differences from Python 2.
+  - [Dive Into Python 3 - PDF](https://github.s3.amazonaws.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)  
 
 ### Python Data Types, Control Flow and Functions
 #### Python Data Types and Variables
@@ -32,7 +37,7 @@
 - [Python: IF, ELIF, ELSE](https://www.tutorialspoint.com/python/python_if_else.htm)
 - [Python 'for' Loops Examples](https://www.cyberciti.biz/faq/python-for-loop-examples-statements/)
 - [Python Loops](https://www.tutorialspoint.com/python/python_loops.htm)
-- [Python Tutorial - Loops](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/loops.html) - 
+- [Python Tutorial - Loops](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/loops.html) -
 part of the excellent [Hands-on Python Tutorial](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html).
 - [Python List Comprehension Explained Visually](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/) -
 great (graphical) explanation of list comprehension in Python.
@@ -46,21 +51,21 @@ great (graphical) explanation of list comprehension in Python.
 ### Websites to Practice Python/Coding
 - [Codewars](https://www.codewars.com)
 - [HackerRank](https://www.hackerrank.com)
-- [CodeSignal](https://codesignal.com) 
+- [CodeSignal](https://codesignal.com)
 - [Exercism](https://exercism.io)
 - [CodingBat](https://codingbat.com/python) - contains Python exercises. For beginners and intermediate-level programmers.
 - [Project Euler](https://projecteuler.net) - a website dedicated to **a lot** of computational problems intended to be solved with computer programs.
 
 ## Python for Data Analysis
-- [Python and Data Analysis](https://chrisalbon.com/#python) - excellent guide for data anaylsis with Python - basic Python, data  wrangling, data visualization and more. Part of [Chris Albon's excellent website](https://chrisalbon.com) 
+- [Python and Data Analysis](https://chrisalbon.com/#python) - excellent guide for data anaylsis with Python - basic Python, data  wrangling, data visualization and more. Part of [Chris Albon's excellent website](https://chrisalbon.com)
 - [Python for Data Analysis](http://hamelg.blogspot.com/2015/12/python-for-data-analysis-index.html) - a blog with a detailed guide for data analysis with Python from A (Python basics) to Z (building predictive models in Python).
-- [Data Exploration in Python](https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Data-Exploration-in-Python.pdf) - using NumPy, Pandas and Matplotlib. 
+- [Data Exploration in Python](https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Data-Exploration-in-Python.pdf) - using NumPy, Pandas and Matplotlib.
 - [Python - Data Science Tutorial](https://www.tutorialspoint.com/python/python_data_science.htm) - another tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com).  
 
-### Pandas 
+### Pandas
 #### Documentation and Official Tutorials
 - [Pandas Official Documentation](http://pandas.pydata.org/pandas-docs/stable/) - Pandas has a pretty good documentation. Here you can read about different Pandas functions and methods. Also check out [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html) and the [tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) and [Pandas Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html).
-  - [Pandas API](http://pandas.pydata.org/pandas-docs/stable/api.html) - all of Pandas functions, classes, methods and attribues. 
+  - [Pandas API](http://pandas.pydata.org/pandas-docs/stable/api.html) - all of Pandas functions, classes, methods and attribues.
   - [Indexing and Selecting Data](http://pandas.pydata.org/pandas-docs/stable/indexing.html)
   - [Merge, Join, and Concatenate](http://pandas.pydata.org/pandas-docs/stable/merging.html)
   - [Group By: split-apply-combine](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
@@ -72,28 +77,28 @@ great (graphical) explanation of list comprehension in Python.
 - [Pandas Official Cheat Sheet](http://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 #### Other Tutorials and Guides
-- [Introduction to Pandas](http://www.synesthesiam.com/posts/an-introduction-to-pandas.html) 
-- [A Quick Introduction to the “Pandas” Python Library](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673) - (shamelessly promoting my content) a tutorial for Pandas I wrote. 
-- [Pandas Tutorial: Aggregation and Grouping](https://data36.com/pandas-tutorial-2-aggregation-and-grouping/) 
+- [Introduction to Pandas](http://www.synesthesiam.com/posts/an-introduction-to-pandas.html)
+- [A Quick Introduction to the “Pandas” Python Library](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673) - (shamelessly promoting my content) a tutorial for Pandas I wrote.
+- [Pandas Tutorial: Aggregation and Grouping](https://data36.com/pandas-tutorial-2-aggregation-and-grouping/)
 - [Pandas Tutorial: Important Data Formatting Methods (merge, sort, reset_index, fillna)](https://data36.com/pandas-tutorial-3-important-data-formatting-methods-merge-sort-reset_index-fillna/)
 - [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/#3.-Data-Manipulation-with-Pandas) - from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
 - [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - a BitBucket repo with Pandas lessons, cookbooks and tools.
 - [Pandas Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) - IPython Notebook(s) demonstrating pandas functionality. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
-- [Python Pandas Tutorial](https://www.tutorialspoint.com/python_pandas/index.htm) - a very detailed Pandas tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com). 
+- [Python Pandas Tutorial](https://www.tutorialspoint.com/python_pandas/index.htm) - a very detailed Pandas tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com).
 - [Difference between using 'loc' and Square Brackets for Selecting Columns](https://stackoverflow.com/questions/48409128/what-is-the-difference-between-using-loc-and-using-just-square-brackets-to-filte) - a Stackoverflow post on what is the difference between using loc and using just square brackets to filter for columns in Pandas/Python?
 - [List of Resources for Learning Data Analysis with Pandas](http://www.dataschool.io/best-python-pandas-resources/) - from Data School.
 
 #### Videos
-- [Data School's Pandas Series](http://www.dataschool.io/easier-data-analysis-with-pandas/) - if you prefer learning from videos. A handy video series geared towards beginners with thorough explanations. 
+- [Data School's Pandas Series](http://www.dataschool.io/easier-data-analysis-with-pandas/) - if you prefer learning from videos. A handy video series geared towards beginners with thorough explanations.
   - [The Videos Playlist on YouTube](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
   - [Jupyter Notebooks for this Series](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb)
 - [10-minute Tour of Pandas](https://vimeo.com/59324550) - by Wes McKinney.
 - [Pandas From The Ground Up - PyCon 2015](https://youtu.be/5JnMutdy6Fw?t=1s) - a video lecture on Pandas by Brandon Rhodes.
   - [Materials of the Talk ](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
-  
+
 #### Pandas Exercises
 - [101 Pandas Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-pandas-exercises-python/) - 101 python pandas exercises are designed to challenge your logical muscle and to help internalize data manipulation with python’s favorite package for data analysis. The questions are of 3 levels of difficulties with L1 being the easiest to L3 being the hardest.
-- [Pandas Exercises](https://github.com/guipsamora/pandas_exercises) - practice your pandas skills: a repo  with exercises to practice Pandas. 
+- [Pandas Exercises](https://github.com/guipsamora/pandas_exercises) - practice your pandas skills: a repo  with exercises to practice Pandas.
 - [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles) - 100 data puzzles for pandas, ranging from short and simple to super tricky.
 
 ## Exploratory Data Analysis
@@ -110,14 +115,12 @@ great (graphical) explanation of list comprehension in Python.
 - [NumPy Tutorial](https://docs.scipy.org/doc/numpy/user/quickstart.html) - official NumPy tutorial.
 - [NumPy and Scipy Documentation](https://docs.scipy.org/doc/) - official NumPy and SciPy documentation.
 - [Introduction to NumPy](https://jakevdp.github.io/PythonDataScienceHandbook/#2.-Introduction-to-NumPy) - from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
-- [NumPy Tutorial](https://www.tutorialspoint.com/numpy/) - a very detailed NumPy tutorial. 
+- [NumPy Tutorial](https://www.tutorialspoint.com/numpy/) - a very detailed NumPy tutorial.
 - [A Quick Introduction to the NumPy Library](https://towardsdatascience.com/a-quick-introduction-to-the-numpy-library-6f61b7dee4db) - another shameless promotion of my content: a quick intro to NumPy.
 - [NumPy Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#numpy) - IPython Notebook(s) demonstrating NumPy functionality. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
 
-### Books (Python for Data Analysis) 
+### Books (Python for Data Analysis)
 - [Python for Data Analysis](https://github.com/wesm/pydata-book) - materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney.
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - this website contains the full text of the [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas.
   - The content is also available on a [GitHub Repo](https://github.com/jakevdp/PythonDataScienceHandbook) in the form of Jupyter notebooks.
 - [Data Mining with Python](http://www2.compute.dtu.dk/pubdb/views/edoc_download.php/6814/pdf/imm6814.pdf)
-
-

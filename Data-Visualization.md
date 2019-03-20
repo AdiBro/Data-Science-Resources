@@ -21,6 +21,7 @@
 - [Matplotlib Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#matplotlib) - IPython Notebook(s) demonstrating matplotlib functionality.
 - [Introduction to Matplotlib - Data Visualization in Python](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39) - a blog post with a Matplotlib tutorial.
 - [5 Quick and Easy Data Visualizations in Python (Matplotlib)](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f)
+- [Top 50 matplotlib Visualizations – The Master Plots (with full python code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/) - a compilation of the Top 50 matplotlib plots most useful in data analysis and visualization. This list lets you choose what visualization to show for what situation using python’s Matplotlib and Seaborn library.
 - [A Better Way To Add Labels To Bar Charts With Matplotlib](http://composition.al/blog/2015/11/29/a-better-way-to-add-labels-to-bar-charts-with-matplotlib/) - a blog post with a great solution to adding labels to bar charts in Maplotlib.
 
 ## Seaborn

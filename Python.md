@@ -85,7 +85,7 @@ great (graphical) explanation of list comprehension in Python.
 - [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - a BitBucket repo with Pandas lessons, cookbooks and tools.
 - [Pandas Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) - IPython Notebook(s) demonstrating pandas functionality. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
 - [Python Pandas Tutorial](https://www.tutorialspoint.com/python_pandas/index.htm) - a very detailed Pandas tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com).
-- [Difference between using 'loc' and Square Brackets for Selecting Columns](https://stackoverflow.com/questions/48409128/what-is-the-difference-between-using-loc-and-using-just-square-brackets-to-filte) - a Stackoverflow post on what is the difference between using loc and using just square brackets to filter for columns in Pandas/Python?
+- ["Minimally Sufficient Pandas"](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428) - a blog post that argues that only a small subset of the library is sufficient to complete nearly all of the data analysis tasks that one will encounter. This minimally sufficient subset of the library will benefit both beginners and professionals using Pandas.
 - [List of Resources for Learning Data Analysis with Pandas](http://www.dataschool.io/best-python-pandas-resources/) - from Data School.
 
 #### Videos

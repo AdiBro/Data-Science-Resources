@@ -101,7 +101,7 @@ great (graphical) explanation of list comprehension in Python.
 - [Pandas Exercises](https://github.com/guipsamora/pandas_exercises) - practice your pandas skills: a repo  with exercises to practice Pandas.
 - [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles) - 100 data puzzles for pandas, ranging from short and simple to super tricky.
 
-## Exploratory Data Analysis
+### Exploratory Data Analysis
 - [Introduction to Exploratory Data Analysis](https://github.com/ritikabhasker/Intro-to-EDA) - a GitHub repo of a workshop and lesson on Exploratory Data Analysis from [Ritika Bhasker's GitHub](https://github.com/ritikabhasker).
 - [EDA Tutorial](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python#gs.T3TSKbk)
 - [What is a Data Detective? How to go Deeper With Your Data](https://www.elderresearch.com/blog/be-a-data-detective)

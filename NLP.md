@@ -21,12 +21,14 @@
 - [Datasets for Natural Language Processing](https://machinelearningmastery.com/datasets-natural-language-processing/) - from Jason Brownlee's [Machine Learning Mastery](https://machinelearningmastery.com/)
 
 
-## Gensim 
+## Gensim
 - [Gensim Website](https://radimrehurek.com/gensim/) - Gensim is a free Python library designed to automatically extract semantic topics from documents.
   - [Gensim Introduction](https://radimrehurek.com/gensim/intro.html)
   - [Gensim Tutorials](https://radimrehurek.com/gensim/tutorial.html)
+  - [Gensim API Reference](https://radimrehurek.com/gensim/apiref.html)
 - [Gensim GitHub Repo](https://github.com/RaRe-Technologies/gensim)
   - [Documentation and Jupyter Notebooks](https://github.com/RaRe-Technologies/gensim/#documentation)
+  - [Gensim Tutorials](https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md)
   - [Recipes & FAQ](https://github.com/RaRe-Technologies/gensim/wiki/Recipes-&-FAQ)
 - [The DIY Guide to Gensim](https://github.com/jxieeducation/DIY-Data-Science/blob/master/frameworks/gensim.md)
 
@@ -61,11 +63,11 @@
   - [Examples](https://github.com/explosion/spaCy/tree/master/examples)
 - [Getting Started with spaCy for Natural Language Processing](https://www.kdnuggets.com/2018/05/getting-started-spacy-natural-language-processing.html)
 - [Natural Language Processing Made Easy – using SpaCy (​in Python)](https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/)
-- [Intro to NLP with spaCy](https://nicschrading.com/project/Intro-to-NLP-with-spaCy/) - "an introduction to spaCy for natural language processing and machine learning with special help from Scikit-learn." 
+- [Intro to NLP with spaCy](https://nicschrading.com/project/Intro-to-NLP-with-spaCy/) - "an introduction to spaCy for natural language processing and machine learning with special help from Scikit-learn."
 
 
 ## TextBlob
-- [TextBlob Website](https://textblob.readthedocs.io/en/dev/) - TextBlob is a Python (2 and 3) library for processing textual data. 
+- [TextBlob Website](https://textblob.readthedocs.io/en/dev/) - TextBlob is a Python (2 and 3) library for processing textual data.
   - [TextBlob Quickstart](https://textblob.readthedocs.io/en/dev/quickstart.html#quickstart)
   - [Tutorial: Building a Text Classification System](https://textblob.readthedocs.io/en/dev/classifiers.html)
   - [Advanced Usage: Overriding Models and the Blobber Class](https://textblob.readthedocs.io/en/dev/advanced_usage.html)

@@ -95,6 +95,7 @@ Statistical Rethinking is an incredible good introductory book to Bayesian Stati
 - [How does randomization in a random forest work?](https://www.quora.com/How-does-randomization-in-a-random-forest-work?redirected_qid=212859)
 - ["Decision Trees - Decoded"](https://medium.com/data-science-group-iitr/decision-trees-decoded-c70b4f7ff542) - a blog post on tree based methods, which consists of Decision Trees, Random Forest and Boosting methods.
 - ["Bagging - Unraveled"](https://medium.com/data-science-group-iitr/bagging-unraveled-8141ca078ccc) - a blog post on Bagging or Bootstrap Aggregating.
+- [Random Forests for Complete Beginners](https://victorzhou.com/blog/intro-to-random-forests/) - "the definitive guide to Random Forests and Decision Trees."
 
 ### Support Vector Machines (SVM)
 - [Support Vector Machine (SVM) Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93) - learning SVMs from examples; an excellent blog post on Support Vector Machines.

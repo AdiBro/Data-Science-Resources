@@ -57,6 +57,7 @@ This folder contains cheat sheets that are relevant anyone learning or practicin
 -   [Scikit Learn Cheat Sheet](Machine-Learning/Scikit-Learn-Cheat-Sheet%20.pdf)
 -   [Scikit Learn Algorithms](Machine-Learning/Scikit-Learn-Algorithms.png)
 -   [Machine Learning Algorithms](Machine-Learning/Machine-Learning-Algorithms.pdf)
+-   [Algorithms and Hyperparameters](Machine-Learning/Algorithms.png)
 
 ## Statistics
 

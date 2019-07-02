@@ -15,8 +15,6 @@
 - [Text Analytics with Python](https://github.com/dipanjanS/text-analytics-with-python) - a repo for the book with the same name.
   - [Jupyter Notebooks with Code and Examples](https://github.com/dipanjanS/text-analytics-with-python/tree/master/Old_Edition_v1/notebooks)
 - [Natural Language Processing Nuggets: Getting Started with NLP](https://www.kdnuggets.com/2018/06/getting-started-natural-language-processing.html) - a collection of NLP resources for beginners from [KDnuggets](https://www.kdnuggets.com), starting from zero and slowly progressing to the point that readers should have an idea of where to go next.
-- [Statistical Learning for Text Classification with scikit-learn and NLTK](https://pyvideo.org/pycon-us-2011/pycon-2011--statistical-machine-learning-for-text.html) - thirty minute introduction to text classification. Explains how to use NLTK and scikit-learn to solve real-world text classification tasks and compares against cloud-based solutions.
-  - [Slides from the Lecture](https://www.slideshare.net/ogrisel/statistical-machine-learning-for-text-classification-with-scikitlearn-and-nltk)
 - [A Comprehensive Guide to Understand and Implement Text Classification in Python](https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/)
 - [Datasets for Natural Language Processing](https://machinelearningmastery.com/datasets-natural-language-processing/) - from Jason Brownlee's [Machine Learning Mastery](https://machinelearningmastery.com/)
 

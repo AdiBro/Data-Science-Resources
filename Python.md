@@ -18,8 +18,8 @@
 - [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) - _Think Python_ is an introduction to Python programming for beginners. You can download a free PDF, view online and even access the Python code.
 - [A Whirlwind Tour of Python](https://www.safaribooksonline.com/library/view/a-whirlwind-tour/9781492037859/) - a free tutorial for Python - "a brief yet comprehensive introduction to Python for engineers, researchers, and data scientists who are already familiar with another programming language." Also available in a [free PDF file](https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
   - [A Whirlwind Tour of Python - GitHub Repo](https://github.com/jakevdp/WhirlwindTourOfPython) - a repository that contains the Jupyter Notebooks behind the O'Reilly report, A Whirlwind Tour of Python.
-- [Dive Into Python 3](https://www.diveinto.org/python3/) - a hands-on guide to Python 3 and its differences from Python 2.
-  - [Dive Into Python 3 - PDF](https://github.s3.amazonaws.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf)  
+- [Dive Into Python 3](https://github.s3.amazonaws.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf) - a hands-on guide to Python 3 and its differences from Python 2. PDF file. 
+
 
 ### Python Data Types, Control Flow and Functions
 #### Python Data Types and Variables

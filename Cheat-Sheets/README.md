@@ -59,6 +59,9 @@ This folder contains cheat sheets that are relevant anyone learning or practicin
 -   [Machine Learning Algorithms](Machine-Learning/Machine-Learning-Algorithms.pdf)
 -   [Algorithms and Hyperparameters](Machine-Learning/Algorithms.png)
 
+### Deep Learning
+- [Keras Cheat Sheet](Machine-Learning/Keras-Cheat-Sheet.pdf)
+
 ## Statistics
 
 -   [Statistics Cheat Sheet](Statistics/stats_handout.pdf)

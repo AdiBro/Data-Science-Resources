@@ -90,6 +90,7 @@ Statistical Rethinking is an incredible good introductory book to Bayesian Stati
 - [Bias-Variance Tradeoff Lecture](https://youtu.be/zrEyxfl2-a8) - a great lecture on bias-variance tradeoff from Caltech's Machine Learning Course - CS 156.
 - [Stanford Lecture on Cross Validation](https://www.youtube.com/watch?v=_2ij6eaaSl0)
 - [Model Selection](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks#model-selection)
+- [Simplicity vs Complexity in Machine Learning — Finding the Right Balance](https://towardsdatascience.com/simplicity-vs-complexity-in-machine-learning-finding-the-right-balance-c9000d1726fb) - a blog post that explains the Bias-Variance Tradeoff in terms of model complexity/simplicity, discusses overfitting and underfitting and gives an applied example.
 
 ### Tree Based Methods (Decision Trees and Random Forests)
 - [Random Forests Guide](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)

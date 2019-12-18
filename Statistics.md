@@ -2,7 +2,7 @@
 
 ## General Statistics
 - [Think Stats](https://greenteapress.com/wp/think-stats-2e/) - _Think Stats_ is an introduction to Probability and Statistics for Python programmers.
-- [An Introduction to Statistical Learning](hhttp://faculty.marshall.usc.edu/gareth-james/ISL/)  - This book provides an introduction to statistical learning methods. Website contains a free PDF. Excellent resource!
+- [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)  - This book provides an introduction to statistical learning methods. Website contains a free PDF. Excellent resource!
   - [Introduction to Statistical Learning Video Series](https://www.youtube.com/user/dataschool/playlists?shelf_id=4&view=50&sort=dd) - a YouTube playlist of videos accompanying the chapters of the ISL book.
   - [An Introduction to Statistical Learning with Python Code](https://github.com/JWarmenhoven/ISLR-python) - this repository contains Python code for a selection of tables, figures and LAB sections from the book 'An Introduction to Statistical Learning with Applications in R' by James, Witten, Hastie, Tibshirani (2013). The book was originally written with examples in R, [Jordi Warmenhoven](https://github.com/JWarmenhoven) "translates" it into Python code.
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - This book is a more advanced book, but also a great resource. You can download a PDF version for free.

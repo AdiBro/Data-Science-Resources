@@ -7,7 +7,7 @@ This repository contains resources and cheatsheets that should be helpful for an
 ## Programming Languages
 
 -   [Python](./Programming-Languages/Python.md) - contains different Python, Pandas and NumPy guides, tips and tricks.
--   [R](./Programming-Languages/R.md)
+-   [R](./Programming-Languages/R.md) - R resources, tutorials, guides, etc., starting with R for beginners through Data Analysis and Visualization to Machine Learning and Deep Learning with R. 
 
 ## Data Analysis and Visualization
 

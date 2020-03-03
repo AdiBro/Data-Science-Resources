@@ -52,7 +52,7 @@
 -   [Gentle Dive into Math Behind Convolutional Neural Networks](https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9) - I don't know about the "gentle" part, but it is a really good blog post on CNNs :)
 -   [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) - a thorough, good and intuitive summary of CNNs in practice with lots of academic resources at the end.
 -   [Convolutional Neural Network - An Introduction to Convolutional Neural Networks](https://towardsdatascience.com/convolutional-neural-network-17fb77e76c05)
--   []
+
 ## Recurrent Neural Networks
 
 -   [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - one of the best intros/tutorials to RNNs.

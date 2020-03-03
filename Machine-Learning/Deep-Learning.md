@@ -43,12 +43,16 @@
 
 -   [Convolutional Neural Networks Tutorial in TensorFlow](http://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/)
 -   [Understanding of Convolutional Neural Network (CNN) — Deep Learning](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
+-   [Crash Course in Convolutional Neural Networks for Machine Learning](https://machinelearningmastery.com/crash-course-convolutional-neural-networks/)
+-   [How Do Convolutional Layers Work in Deep Learning Neural Networks?](https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/)
 -   [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - Stanford University CS231n Convolutional Neural Networks for Visual Recognition course.
     -   [Course Notes for Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
     -   [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - a YouTube **video** playlist of the course.
 -   [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 -   [Gentle Dive into Math Behind Convolutional Neural Networks](https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9) - I don't know about the "gentle" part, but it is a really good blog post on CNNs :)
-
+-   [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) - a thorough, good and intuitive summary of CNNs in practice with lots of academic resources at the end.
+-   [Convolutional Neural Network - An Introduction to Convolutional Neural Networks](https://towardsdatascience.com/convolutional-neural-network-17fb77e76c05)
+-   []
 ## Recurrent Neural Networks
 
 -   [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - one of the best intros/tutorials to RNNs.

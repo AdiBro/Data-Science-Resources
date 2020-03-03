@@ -25,7 +25,7 @@ This repository contains resources and cheatsheets that should be helpful for an
 -   [Statistics](./Stats-Math/Statistics.md) - contains mostly theoretical reading to deepen your understanding of statistics.
 -   [Mathematics](./Stats-Math/Math.md) - contains resources for math topics that are relevant for data scientists.
 
-## Getting Datasets
+## Getting Data
 
 -   [Datasets](./Getting-Data/Datasets.md) -  links to interesting datasets.
 

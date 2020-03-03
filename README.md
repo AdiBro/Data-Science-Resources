@@ -1,13 +1,13 @@
 # Data Science Resources
 
-This repository contains resources and cheatsheets that should be helpful for anyone learning or practicing data science.
+This repository contains resources and cheatsheets that should be helpful for anyone learning or practicing data science. Vast majority of the resources is geared towards Python users, but there's a page for [R resources](./Programming-Languages/R.md) (and I'm planning on adding Scala at some point).
 
 -   [Cheat Sheets](Cheat-Sheets) - contains a lot of useful cheat sheets for Python, data analysis, machine learning, Git and more.
 
 ## Programming Languages
 
 -   [Python](./Programming-Languages/Python.md) - contains different Python, Pandas and NumPy guides, tips and tricks.
--   [R](./Programming-Languages/R.md) - R resources, tutorials, guides, etc., starting with R for beginners through Data Analysis and Visualization to Machine Learning and Deep Learning with R. 
+-   [R](./Programming-Languages/R.md) - R resources, tutorials, guides, etc., starting with R for beginners through Data Analysis and Visualization to Machine Learning and Deep Learning with R.
 
 ## Data Analysis and Visualization
 

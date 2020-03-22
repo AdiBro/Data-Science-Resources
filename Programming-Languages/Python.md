@@ -27,7 +27,9 @@
 - [Python Data Types and Variables](https://www.python-course.eu/python3_variables.php)
 - [Python Tuples, Lists, and Dictionaries](http://sthurlow.com/python/lesson06/)
 - [Python Lists](https://medium.com/@GalarnykMichael/python-basics-6-lists-and-list-manipulation-a56be62b1f95)
-- [Python Dictionaries](https://hackernoon.com/python-basics-10-dictionaries-and-dictionary-methods-4e9efa70f5b9)
+- [Python Dictionary and Dictionary Methods](https://medium.com/@GalarnykMichael/python-basics-10-dictionaries-and-dictionary-methods-4e9efa70f5b9)
+- [Python Dictionaries 101: A Detailed Visual Introduction](https://www.freecodecamp.org/news/python-dictionaries-detailed-visual-introduction/)
+- [Dictionaries in Python - Real Python](https://realpython.com/python-dicts/)
 
 #### Python Control Flow
 - [Python Basics: Understanding The Flow Control Statements](https://www.codeproject.com/Articles/663666/Python-Basics-Understanding-The-Flow-Control-State) - a tutorial for control flow in Python (for, if etc).

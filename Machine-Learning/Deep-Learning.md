@@ -58,6 +58,7 @@
 -   [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - one of the best intros/tutorials to RNNs.
 -   [Crash Course in Recurrent Neural Networks for Deep Learning](https://machinelearningmastery.com/crash-course-recurrent-neural-networks-deep-learning/)
 -   [A Tour of Recurrent Neural Network Algorithms for Deep Learning](https://machinelearningmastery.com/recurrent-neural-network-algorithms-for-deep-learning/)
+-   [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 -   [Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
 -   [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 -   [LSTM Recurrent Neural Network Example](https://chrisalbon.com/deep_learning/keras/lstm_recurrent_neural_network/) - on [Chris Albon's website](https://chrisalbon.com/)
@@ -109,6 +110,7 @@
 
 -   [5 Free Resources for Getting Started with Deep Learning for Natural Language Processing](https://www.kdnuggets.com/2017/07/5-free-resources-getting-started-deep-learning-nlp.html)
 -   [Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks](https://insights.untapt.com/deep-learning-for-natural-language-processing-tutorials-with-jupyter-notebooks-ad67f336ce3f)
+-   [Deep Learning, NLP, and Representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
 -   [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com/) - an overview of recent trends in deep learning based natural language processing (NLP).
     -   [GitHub Repository for the Website](https://github.com/omarsar/nlp_overview)
 -   [Lecture Collection - Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) - a YouTube playlist of lectures from Stanford University School of Engineering.

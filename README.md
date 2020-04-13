@@ -31,4 +31,6 @@ This repository contains resources and cheatsheets that should be helpful for an
 
 ## Development Environment
 
--   [Development Environment](./Development-Environment/Enviroment.md) - contains development environment resources: Command Line, Git, Jupyter Notebook, etc.
+-   [Git and GitHub](./Development-Environment/Git.md) - contains Git and GitHub/GitHub Enterprise resources.
+-   [Command Line Interface](./Development-Environment/Command-Line.md) - contains Command Line resources.
+-   [Development Environment Resources](./Development-Environment/IDEs.md) - contains development environment resources: Jupyter Notebook/Lab, text editors (like VS Code), etc.

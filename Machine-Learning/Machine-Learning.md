@@ -11,7 +11,7 @@
   - [Scikit-Learn - Choosing the Right Estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/) - a flowchart designed to give users a bit of a rough guide on how to approach problems with regard to which estimators to try on your data.
   - [Sklearn Documentation on Feature Selection](http://scikit-learn.org/stable/modules/feature_selection.html)
   - [Scikit-Learn - Model Evaluation](http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation) - quantifying the quality of predictions.
-  
+
 ### Other Tutorials and Guides  
 - [scikit-learn Beginner Tutorials](https://github.com/mmmayo13/scikit-learn-beginners-tutorials) - abridged implementation of the official scikit-learn beginner tutorials.
 - [Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_tutorial) - this repository contains notebooks and other files associated with [Jake Vanderplas](https://github.com/jakevdp)'s Scikit-learn tutorial.
@@ -33,13 +33,13 @@
 - [Feature Selection For Machine Learning in Python](https://machinelearningmastery.com/feature-selection-machine-learning-python/)
 - [Side-by-side Comparison of Feature Selection Tactics](http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/)
 - [Walkthrough on Feature Selection in Python](https://www.dummies.com/programming/big-data/data-science/how-to-use-python-to-select-the-right-variables-for-data-science/)
-- [An Overview of Feature Selection Strategies](https://www.datasciencecentral.com/profiles/blogs/an-overview-of-feature-selection-strategies) 
+- [An Overview of Feature Selection Strategies](https://www.datasciencecentral.com/profiles/blogs/an-overview-of-feature-selection-strategies)
 
 ## Supervised Learning
 - [Scikit-Learn Supervised Learning Documentation](http://scikit-learn.org/stable/supervised_learning.html)
 - [Scikit-learn Basics Tutorial](http://marcharper.codes/2016-01-24/Abalone.html) - a quick tutorial of how to visualize, estimate, and classify with the Abalone dataset.
 - [Introduction to Machine Learning in Python with Scikit-Learn (video series)](https://www.dataschool.io/machine-learning-with-scikit-learn/) - a series of scikit-learn video tutorials, from [Data School](https://www.dataschool.io). There's also a [GitHub repository with Jupyter Notebooks](https://github.com/justmarkham/scikit-learn-videos).
-- [An Introduction to Statistical Learning with Python Code](https://github.com/JWarmenhoven/ISLR-python) - his repository contains Python code for a selection of tables, figures and LAB sections from the book 'An Introduction to Statistical Learning with Applications in R' by James, Witten, Hastie, Tibshirani (2013). The book was originally written with examples in R, [Jordi Warmenhoven](https://github.com/JWarmenhoven) "translates" it into Python code. 
+- [An Introduction to Statistical Learning with Python Code](https://github.com/JWarmenhoven/ISLR-python) - his repository contains Python code for a selection of tables, figures and LAB sections from the book 'An Introduction to Statistical Learning with Applications in R' by James, Witten, Hastie, Tibshirani (2013). The book was originally written with examples in R, [Jordi Warmenhoven](https://github.com/JWarmenhoven) "translates" it into Python code.
 
 ### Regression
 - [Scikit-Learn Generalized Linear Models Documentation](http://scikit-learn.org/stable/modules/linear_model.html)
@@ -56,12 +56,13 @@
 
 ### Classification
 - [SKLearn Classifier Comparison](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
-- [Introduction to Implementing scikit-learn Classifiers](https://github.com/mmmayo13/scikit-learn-classifiers) - an introduction to implementing a number of scikit-learn classifiers, along with some data exploration. Excellent resources, contains examples in Jupyter Notebooks and many useful links. 
+- [Introduction to Implementing scikit-learn Classifiers](https://github.com/mmmayo13/scikit-learn-classifiers) - an introduction to implementing a number of scikit-learn classifiers, along with some data exploration. Excellent resources, contains examples in Jupyter Notebooks and many useful links.
 
 #### Logistic Regression
 - [Logistic Regression Documentation](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 - [Logistic Regression in SKLearn User Guide](http://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
 - [Logistic Regression with Scikit-Learn](http://marcharper.codes/2016-06-27/Logistic+Regression.html) - a Jupyter Notebook with a logistic regression example.
+- ["Don’t Sweat the Solver Stuff"](https://towardsdatascience.com/dont-sweat-the-solver-stuff-aea7cddc3451) - "Tips for Better Logistic Regression Models in Scikit-Learn"
 - [Logistic Regression with Statsmodels](http://nbviewer.ipython.org/urls/raw.github.com/carljv/Will_it_Python/master/ARM/ch5/arsenic_wells_switching.ipynb) - another Jupyter Notebook with a logistic regression example.
 
 #### K-Nearest Neighbors
@@ -78,7 +79,7 @@
 ### Train-Test Split, Cross Validation and Bias-Variance Tradeoff
 - [Sklearn Documentation on Train Test Split](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
 - [Sklearn Documentation on Cross Validation](http://scikit-learn.org/stable/modules/cross_validation.html)
-- [KFold Cross Validation](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html) - from the Sklearn documentation. 
+- [KFold Cross Validation](http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html) - from the Sklearn documentation.
 - [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6) - a blog post I wrote about the Train-Test Split and Cross Validation in Python.
 - [StackExchange Discussion on Approximate TTS, validation Set Sizes](https://stackoverflow.com/questions/13610074/is-there-a-rule-of-thumb-for-how-to-divide-a-dataset-into-training-and-validatio)
 
@@ -119,7 +120,7 @@
 - [An Introduction to K-means Clustering Analysis](http://blog.galvanize.com/introduction-k-means-cluster-analysis/) - contains a theoretical explanation, pseudocode and Python code examples.
 
 ### Principal Component Analysis
-- [Principal component analysis (PCA)](http://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca) - SKLearn documentation on PCA. 
+- [Principal component analysis (PCA)](http://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca) - SKLearn documentation on PCA.
 - [SKLearn Documentation on PCA](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
 - [A One-Stop Shop for Principal Component Analysis](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c) - a blog post with an excellent introduction to Principal Component Analysis.
 - [Principal Component Analysis in 3 Simple Steps](https://sebastianraschka.com/Articles/2015_pca_in_3_steps.html)
@@ -131,7 +132,6 @@
 - [Data Science Python Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command line notebooks.
 - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource
 - [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml) - a series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn (and TensorFlow). This is the [index notebook](https://github.com/ageron/handson-ml/blob/master/index.ipynb) and the relevant chapters/notebooks are 1 to 8.
-- [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - a textbook by By [Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais) and [Shai Ben-David](https://cs.uwaterloo.ca/~shai) from [The School of Computer Science & Engineering](http://www.cs.huji.ac.il) at the [Hebrew University](http://new.huji.ac.il/en). The aim of this textbook is to introduce machine learning, and the algorithmic paradigms it offers, in a principled way. The book provides a theoretical account of the fundamentals underlying machine learning and the mathematical derivations that transform these principles into practical algorithms. 
-- [Machine Learning: An Algorithmic Perspective](https://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html) - a Machine Learning and Artificial Inteligence book by Stephen Marsland, from the [School of Engineering and Advanced Technology (SEAT)](http://seat.massey.ac.nz/) at [Massey University](http://www.massey.ac.nz/) in Palmerston North, New Zealand. 
+- [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - a textbook by By [Shai Shalev-Shwartz](http://www.cs.huji.ac.il/~shais) and [Shai Ben-David](https://cs.uwaterloo.ca/~shai) from [The School of Computer Science & Engineering](http://www.cs.huji.ac.il) at the [Hebrew University](http://new.huji.ac.il/en). The aim of this textbook is to introduce machine learning, and the algorithmic paradigms it offers, in a principled way. The book provides a theoretical account of the fundamentals underlying machine learning and the mathematical derivations that transform these principles into practical algorithms.
+- [Machine Learning: An Algorithmic Perspective](https://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html) - a Machine Learning and Artificial Inteligence book by Stephen Marsland, from the [School of Engineering and Advanced Technology (SEAT)](http://seat.massey.ac.nz/) at [Massey University](http://www.massey.ac.nz/) in Palmerston North, New Zealand.
 - [Mining of Massive Datasets](http://mmds.org/#ver21) - a book aimed to teach you Data Mining and Machine Learning techniques to process large datasets and extract valuable knowledge from them.
-

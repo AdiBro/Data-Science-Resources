@@ -13,7 +13,6 @@
     -   [TensorFlow Tutorials](https://github.com/donnemartin/data-science-ipython-notebooks#tensor-flow-tutorials)
     -   [TensorFlow Exercises](https://github.com/donnemartin/data-science-ipython-notebooks#tensor-flow-exercises)
     -   [Keras Tutorials](https://github.com/donnemartin/data-science-ipython-notebooks#keras-tutorials)
-    -   [Theano Tutorials](https://github.com/donnemartin/data-science-ipython-notebooks#theano-tutorials)
 -   [One LEGO at a Time: Explaining the Math of how Neural Networks Learn with Implementation from Scratch](https://medium.com/towards-artificial-intelligence/one-lego-at-a-time-explaining-the-math-of-how-neural-networks-learn-with-implementation-from-scratch-39144a1cf80)
 -   [Deep Learning Cheat Sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning) - from Stanford University's CS 229 - Machine Learning course.
 -   [Deep Dive into Math Behind Deep Networks](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)
@@ -97,14 +96,6 @@
     -   [PyTorch Documentation](<PyTorch documentation>)
     -   [PyTorch Resources](https://pytorch.org/resources)
 -   [PyTorch Tutorials](https://github.com/vkhetan/pyTorch)
-
-## Theano
-
--   [Theano Official Website and Documentation](http://deeplearning.net/software/theano/)
-    -   [Theano GitHub Repo](https://github.com/Theano/Theano)
-        -   [Theano Wiki](https://github.com/Theano/Theano/wiki)
--   [Practical Guide to Implementing Neural Networks in Python (using Theano)](https://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/) -
--   [Theano Tutorial](https://github.com/craffel/theano-tutorial) - a brief Jupyter notebook-based tutorial on basic Theano concepts, including a toy multi-layer perceptron example.
 
 ## Natural Language Processing in Deep Learning
 

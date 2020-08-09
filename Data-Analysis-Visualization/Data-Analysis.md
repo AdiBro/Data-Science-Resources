@@ -70,7 +70,7 @@
 - [NumPy Introduction - w3schools](https://www.w3schools.com/python/numpy_intro.asp) 
 
 #### NumPy Exercises
-- [NumPy Exercises - w3resource] 
+- [NumPy Exercises - w3resource](https://www.w3resource.com/python-exercises/numpy/index.php) 
 
 ### Books (Python for Data Analysis)
 - [Python for Data Analysis](https://github.com/wesm/pydata-book) - materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney.

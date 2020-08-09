@@ -20,7 +20,7 @@
   - [Categorical Data](http://pandas.pydata.org/pandas-docs/stable/categorical.html)
 - [Pandas Official Cheat Sheet](http://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
-#### Other Tutorials and Guides
+#### (Unofficial) Tutorials
 - [Introduction to Pandas](http://www.synesthesiam.com/posts/an-introduction-to-pandas.html)
 - [A Quick Introduction to the “Pandas” Python Library](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673) - (shamelessly promoting my content) a tutorial for Pandas I wrote.
 - [Pandas Tutorial: Aggregation and Grouping](https://data36.com/pandas-tutorial-2-aggregation-and-grouping/)

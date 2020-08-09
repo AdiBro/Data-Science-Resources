@@ -46,6 +46,7 @@
 
 #### Pandas Exercises
 - [101 Pandas Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-pandas-exercises-python/) - 101 python pandas exercises are designed to challenge your logical muscle and to help internalize data manipulation with python’s favorite package for data analysis. The questions are of 3 levels of difficulties with L1 being the easiest to L3 being the hardest.
+- [Pandas Exercises on w3resource](https://www.w3resource.com/python-exercises/pandas/index.php) 
 - [Pandas Exercises](https://github.com/guipsamora/pandas_exercises) - practice your pandas skills: a repo  with exercises to practice Pandas.
 - [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles) - 100 data puzzles for pandas, ranging from short and simple to super tricky.
 
@@ -66,6 +67,10 @@
 - [NumPy Tutorial](https://www.tutorialspoint.com/numpy/) - a very detailed NumPy tutorial.
 - [A Quick Introduction to the NumPy Library](https://towardsdatascience.com/a-quick-introduction-to-the-numpy-library-6f61b7dee4db) - another shameless promotion of my content: a quick intro to NumPy.
 - [NumPy Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#numpy) - IPython Notebook(s) demonstrating NumPy functionality. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
+- [NumPy Introduction - w3schools](https://www.w3schools.com/python/numpy_intro.asp) 
+
+#### NumPy Exercises
+- [NumPy Exercises - w3resource] 
 
 ### Books (Python for Data Analysis)
 - [Python for Data Analysis](https://github.com/wesm/pydata-book) - materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney.

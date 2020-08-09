@@ -25,20 +25,24 @@
 - [A Quick Introduction to the “Pandas” Python Library](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673) - (shamelessly promoting my content) a tutorial for Pandas I wrote.
 - [Pandas Tutorial: Aggregation and Grouping](https://data36.com/pandas-tutorial-2-aggregation-and-grouping/)
 - [Pandas Tutorial: Important Data Formatting Methods (merge, sort, reset_index, fillna)](https://data36.com/pandas-tutorial-3-important-data-formatting-methods-merge-sort-reset_index-fillna/)
-- [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/#3.-Data-Manipulation-with-Pandas) - from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
 - [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - a BitBucket repo with Pandas lessons, cookbooks and tools.
 - [Pandas Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#pandas) - IPython Notebook(s) demonstrating pandas functionality. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
 - [Python Pandas Tutorial](https://www.tutorialspoint.com/python_pandas/index.htm) - a very detailed Pandas tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com).
-- ["Minimally Sufficient Pandas"](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428) - a blog post that argues that only a small subset of the library is sufficient to complete nearly all of the data analysis tasks that one will encounter. This minimally sufficient subset of the library will benefit both beginners and professionals using Pandas.
 - [List of Resources for Learning Data Analysis with Pandas](http://www.dataschool.io/best-python-pandas-resources/) - from Data School.
 
+#### Guides
+- [20 Pandas Functions That Will Boost Your Data Analysis Process](https://towardsdatascience.com/20-pandas-functions-that-will-boost-your-data-analysis-process-f5dfdb2f9e05)
+- ["Minimally Sufficient Pandas"](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428) - a blog post that argues that only a small subset of the library is sufficient to complete nearly all of the data analysis tasks that one will encounter. This minimally sufficient subset of the library will benefit both beginners and professionals using Pandas.
+- [Data Manipulation with Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/#3.-Data-Manipulation-with-Pandas) - from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
+
 #### Videos
-- [Data School's Pandas Series](http://www.dataschool.io/easier-data-analysis-with-pandas/) - if you prefer learning from videos. A handy video series geared towards beginners with thorough explanations.
+- [Data School's Pandas Series](http://www.dataschool.io/easier-data-analysis-with-pandas/) - if you prefer learning from videos. A handy video series geared towards beginners with thorough explanations. Might be a little dated as it's from 2016.
   - [The Videos Playlist on YouTube](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
   - [Jupyter Notebooks for this Series](http://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb)
 - [10-minute Tour of Pandas](https://vimeo.com/59324550) - by Wes McKinney.
 - [Pandas From The Ground Up - PyCon 2015](https://youtu.be/5JnMutdy6Fw?t=1s) - a video lecture on Pandas by Brandon Rhodes.
   - [Materials of the Talk ](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
+
 
 #### Pandas Exercises
 - [101 Pandas Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-pandas-exercises-python/) - 101 python pandas exercises are designed to challenge your logical muscle and to help internalize data manipulation with python’s favorite package for data analysis. The questions are of 3 levels of difficulties with L1 being the easiest to L3 being the hardest.
@@ -67,4 +71,3 @@
 - [Python for Data Analysis](https://github.com/wesm/pydata-book) - materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney.
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - this website contains the full text of the [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do) by Jake VanderPlas.
   - The content is also available on a [GitHub Repo](https://github.com/jakevdp/PythonDataScienceHandbook) in the form of Jupyter notebooks.
-- [Data Mining with Python](http://www2.compute.dtu.dk/pubdb/views/edoc_download.php/6814/pdf/imm6814.pdf)

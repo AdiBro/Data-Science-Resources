@@ -16,6 +16,7 @@
   - [Jupyter Notebook for Beginners: A Tutorial](https://www.kdnuggets.com/2018/05/jupyter-notebook-beginners-tutorial.html)
 - [IPython](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#1.-IPython:-Beyond-Normal-Python) - a chapter from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).
 - [Comprehensive Beginner’s Guide to Jupyter Notebooks for Data Science & Machine Learning](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/)
+- [Jupyter Notebook for Data Science](https://kanger.dev/learn/jupyter-notebook-data-science-courses/) - "Courses to learn Jupyter Notebook for Data Science"
 
 ### JupyterLab
 JupyterLab is the "next generation" of Jupyter Notebook. It's worth checking out!

@@ -19,7 +19,7 @@
 - [Jupyter Notebook for Data Science](https://kanger.dev/learn/jupyter-notebook-data-science-courses/) - "Courses to learn Jupyter Notebook for Data Science"
 
 ### JupyterLab
-JupyterLab is the "next generation" of Jupyter Notebook. It's worth checking out!
+JupyterLab is the "next generation" of Jupyter Notebook that allows you to open multiple notebooks in a single browser tab and adds a lot of functionality (like a markdown editor and preview, ability to open Terminal windows/tabs and Python consoles and much more).
 - [JupyterLab is Ready for Users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) - a blog post announcing JupyterLab is out of beta and ready for use.
   * [Installation](http://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
   * [Documentation](http://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)

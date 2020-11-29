@@ -55,12 +55,14 @@ Statistical Rethinking is an incredible good introductory book to Bayesian Stati
 ### Linear Regression
 - [Introduction to Linear Regression Analysis](http://people.duke.edu/~rnau/regintro.htm) - Duke University Statistical Forecastion class
   - [Notes on Linear Regression Analysis](http://people.duke.edu/~rnau/Notes_on_linear_regression_analysis--Robert_Nau.pdf)
+- [Linear Regression Concepts](http://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html) - from the [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html).
+- [Evaluating linear relationships](https://towardsdatascience.com/evaluating-linear-relationships-1d239f51297b) - "How to use scatterplots, correlation coefficients, and linear regression effectively"
 - [Wikipedia: Mean Square Error](https://en.wikipedia.org/wiki/Mean_squared_error)
 - [Wikipedia: Residual Sum of Squares](https://en.wikipedia.org/wiki/Residual_sum_of_squares)
+- [Regression Metrics](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks#regression-metrics)
 - [Stanford Statistical Learning - Ridge Regression](https://www.youtube.com/watch?v=cSKzqb0EKS0&list=PL5-da3qGB5IB-Xdpj_uXJpLGiRfv9UVXI&index=6) - a video lecture from Stanford's Statistical Learning class.
 - [Stanford Statistical Learning - Lasso Regression](https://www.youtube.com/watch?v=A5I1G1MfUmA&index=7&list=PL5-da3qGB5IB-Xdpj_uXJpLGiRfv9UVXI) - a video lecture from Stanford's Statistical Learning class.
-- [Linear Regression Concepts](http://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html) - from the [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html).
-- [Regression Metrics](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks#regression-metrics)
+
 
 ### Classification
 #### Logistic Regression

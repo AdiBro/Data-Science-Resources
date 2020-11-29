@@ -71,11 +71,11 @@ Statistical Rethinking is an incredible good introductory book to Bayesian Stati
 - [Odds Ratio Explanation](http://www.wright.edu/%7Ethaddeus.tarpey/ES714glm.pdf)
 - [Logistic Regression Concepts](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html) - from the [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html).
 
-### K-Nearest Neigbors
+#### K-Nearest Neigbors
 - [A Detailed Introduction to K-Nearest Neighbor (KNN) Algorithm](https://saravananthirumuruganathan.wordpress.com/2010/05/17/a-detailed-introduction-to-k-nearest-neighbor-knn-algorithm/)
 - [K-Nearest Neighbors: Dangerously Simple](https://mathbabe.org/2013/04/04/k-nearest-neighbors-dangerously-simple/)
 
-### Evaluating Classifiers: Confusion Matrix, AUC-ROC
+#### Evaluating Classifiers: Confusion Matrix, AUC-ROC
 - [Classification Metrics](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks#classification-metrics)
 - [An Introduction to Confusion Matrix Terminology](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/) - simple guide to confusion matrix terminology, from [Data School](https://www.dataschool.io).
   - [Making Sense of the Confusion Matrix](https://www.youtube.com/watch?v=8Oog7TXHvFY) - a **video** based on the confusion matrix guide.
@@ -117,7 +117,7 @@ Statistical Rethinking is an incredible good introductory book to Bayesian Stati
 - [Stanford Walkthrough of Hierarchical Clustering](http://www.econ.upf.edu/%7Emichael/stanford/maeb7.pdf)
 - [Clustering Notes/Cheat Sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning#clustering)
 
-### Dimension Reduction
+### Dimensionality Reduction
 - [Dimension Reduction Notes/Cheat Sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning#dimension-reduction)
 - [A One-Stop Shop for Principal Component Analysis](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c) - a blog post with an excellent introduction to Principal Component Analysis.
 - [Principal Component Analysis Explained Visually](http://setosa.io/ev/principal-component-analysis/)

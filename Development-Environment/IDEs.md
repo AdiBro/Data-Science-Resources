@@ -12,6 +12,7 @@
 ### Jupyter Notebook Tutorials
 - [Jupyter Notebook Quick Start Guide](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html) - a brief step-by-step tutorial on installing and running Jupyter notebooks on local computer for new users who have no familiarity with python. Most useful is the [Running the Jupyter Notebook](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html) part.
 - [Jupyter Notebook: An Introduction](https://realpython.com/jupyter-notebook-introduction/)
+- ["How to Use Jupyter Notebook in 2020: A Beginner’s Tutorial"](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) - an extensive tutorial on Jupyter Notebooks: what's a Jupyter Notebook, what are they used for, installation, tips and tricks and more. 
 - [Jupyter Notebook for Beginners: A Tutorial](https://towardsdatascience.com/jupyter-notebook-for-beginners-a-tutorial-f55b57c23ada) - if this link isn't available or asks you to pay to view it, check out this link:
   - [Jupyter Notebook for Beginners: A Tutorial](https://www.kdnuggets.com/2018/05/jupyter-notebook-beginners-tutorial.html)
 - [IPython](https://jakevdp.github.io/PythonDataScienceHandbook/index.html#1.-IPython:-Beyond-Normal-Python) - a chapter from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html).

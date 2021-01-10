@@ -1,5 +1,13 @@
 # R Resources
-Start by downloading R from the [official R website](https://www.r-project.org), and then (you don't have to, but it's highly recommended!) download [R Studio](https://www.rstudio.com/products/rstudio/download/).
+Start by downloading R from the [official R website](https://www.r-project.org), and then (you don't have to, but it's **highly recommended!**) download [R Studio](https://www.rstudio.com/products/rstudio/download/).
+
+## R Tutorials and Beginners Guides
+- [Tutorial: Getting Started with R and RStudio](https://www.dataquest.io/blog/tutorial-getting-started-with-r-and-rstudio/) - "In this tutorial we’ll learn how to begin programming with R using RStudio. We’ll install R, and RStudio RStudio, an extremely popular development environment for R. We’ll learn the key RStudio features in order to start programming in R on our own."
+- [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf) - "the goal of the present document is to give a starting point for people newly interested in R".
+- [Introduction to R](https://ramnathv.github.io/pycon2014-r/) - notes for an introductory R workshop for Python programmers.
+- [Introductory R Tutorial](http://tutorials.iq.harvard.edu/R/Rintro/Rintro.html)
+  - [Live Interactive Notebook](http://tutorials-live.iq.harvard.edu:8000/notebooks/workshops/R/Rintro/Rintro.ipynb)
+  - [GitHub Repo for the Workshop](https://github.com/IQSS/workshops/tree/master/R/Rintro)
 
 ## General R Resources
 - [R Reference Card](http://tutorials.iq.harvard.edu/R/RProgramming/Short-refcard.pdf) - R cheat sheet.
@@ -10,13 +18,6 @@ Start by downloading R from the [official R website](https://www.r-project.org),
 - [Biomedical Data Science/Data Analysis for the Life Sciences](http://genomicsclass.github.io/book/) - This book will cover several of the statistical concepts and data analytic skills needed to succeed in data-driven life science research - all in R.
 - [Intro to Data Science with R](https://www.youtube.com/playlist?list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF) - this series is a comprehensive introduction to Data Science using the R programming language.
 - [What You Need to Know About R](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-r) - a free ebook, that provides a "first step into the world of R where you will learn about the core concepts, libraries, and packages."
-
-## R Tutorials and Beginners Guides
-- [R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf) - "the goal of the present document is to give a starting point for people newly interested in R".
-- [Introduction to R](https://ramnathv.github.io/pycon2014-r/) - notes for an introductory R workshop for Python programmers.
-- [Introductory R Tutorial](http://tutorials.iq.harvard.edu/R/Rintro/Rintro.html)
-  - [Live Interactive Notebook](http://tutorials-live.iq.harvard.edu:8000/notebooks/workshops/R/Rintro/Rintro.ipynb)
-  - [GitHub Repo for the Workshop](https://github.com/IQSS/workshops/tree/master/R/Rintro)
 
 ## Data Analysis, Manipulation and Wrangling
 - [Introduction to R programming](http://tutorials.iq.harvard.edu/R/RProgramming/Rprogramming.html) - this is an intermediate/advanced R course appropriate for those with basic knowledge of R. It is intended for those already comfortable with using R for data analysis who wish to move on to writing their own functions.

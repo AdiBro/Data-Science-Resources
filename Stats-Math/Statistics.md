@@ -26,6 +26,7 @@
 - [Doing Bayesian Data Analysis - Python/PyMC3](https://github.com/JWarmenhoven/DBDA-python) - This repository contains Python/PyMC3 code for a selection of models and figures from the book ['Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan', Second Edition, by John Kruschke (2015)](https://sites.google.com/site/doingbayesiandataanalysis/).
 - [Statistical Rethinking with Python and PyMC3](https://github.com/pymc-devs/resources/tree/master/Rethinking) -
 Statistical Rethinking is an incredible good introductory book to Bayesian Statistics, its follows a Jaynesian and practical approach with very good examples and clear explanations. In this repository the codes were ported (originally in R and Stan) in the book to PyMC3.
+- [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/) - an online book with goal of "making modern Bayesian thinking, modeling, and computing accessible to a broad audience." 
 
 ## Statistics in Python
 - [Basic Statistics in Python: Descriptive Statistics](https://www.dataquest.io/blog/basic-statistics-with-python-descriptive-statistics/)

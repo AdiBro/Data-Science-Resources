@@ -1,37 +1,38 @@
-# Data Science Resources
+# Veri Bilimi Kaynakları
 
-This repository contains resources and cheatsheets that should be helpful for anyone learning or practicing data science. Vast majority of the resources is geared towards Python users, but there's a page for [R resources](./Programming-Languages/R.md) (and I'm planning on adding Scala at some point).
+Bu repository data science (Veri Bilimi) öğrenen ve pratik yapan herkese yardımcı olmak için kaynaklar ve kopya kağıtları(cheatsheets) içerir.
+Kaynakların büyük bir kısmı python kullanıcıları içindir, ancak ekteki linke tıklayarak R kaynaklarına da ulaşabilirsiniz [R resources]          (./Programming-Languages/R.md) (Bir noktada ben de buna bir ölçek koymayı planlıyorum).
 
--   [Cheat Sheets](Cheat-Sheets) - contains a lot of useful cheat sheets for Python, data analysis, machine learning, Git and more.
+-  [Cheat Sheets] (Kopya Kağıtları) - Python, veri analizi, makine öğrenimi, Git ve dahası için birçok kullanışlı bilgiler içeren kağıtlardır.
 
-## Programming Languages
+## Programlama Dilleri
 
--   [Python](./Programming-Languages/Python.md) - contains different Python guides, tips and tricks.
--   [R](./Programming-Languages/R.md) - R resources, tutorials, guides, etc., starting with R for beginners through Data Analysis and Visualization to Machine Learning and Deep Learning with R.
--   [SQL](./Programming-Languages/SQL.md) - SQL tutorials, cheat sheets, exercises, videos and courses.
+-   [Python](./Programming-Languages/Python.md) - Python için farklı rehberler, ipuçları ve numaralar içerir.
+-   [R](./Programming-Languages/R.md) - R kaynakları, öğreticiler, rehberler vb. Veri Analizi, Görselleştirme ve Deep Learninge R ile başlayanlar için.
+-   [SQL](./Programming-Languages/SQL.md) - SQL rehberleri, öğreticiler, kopya kağıtları, egzersizler, video ve kurslar.
 
-## Data Analysis and Visualization
+## Veri Analizi ve Görselleştirme
 
--   [Data Analysis](./Data-Analysis-Visualization/Data-Analysis.md) - Exploratory Data Analysis guides, mostly with Pandas and NumPy.
--   [Data Visualization](./Data-Analysis-Visualization/Data-Visualization.md) - contains various data visualization guides - Pandas plotting, Matplotlib, Seaborn, Bokeh.
+-   [Veri Analizi](./Data-Analysis-Visualization/Data-Analysis.md) - Keşifçi Veri Analizi rehberleri, Çoğunlukla NuPy ve pandas kullanarak. 
+-   [Veri Görselleştirmesi](./Data-Analysis-Visualization/Data-Visualization.md) - Çeşitli veri görselleştirme rehberleri içerir - Pandas plotting, Matplotlib, Seaborn, Bokeh.
 
-## Machine Learning
+## Makine Öğrenimi
 
--   [Machine Learning](./Machine-Learning/Machine-Learning.md) - contains different machine learning guides: supervised learning (regression, classification, tree-based models etc), unsupervised learning (clustering), feature selection, model evaluation, etc.
--   [Deep Learning](./Machine-Learning/Deep-Learning.md) - Deep Learning guides, including general guides and tutorials and resources organized by the type of network (CNN, RNN, etc.) and the library (TensorFlow, Keras, PyTorch, etc.).
--   [Natural Language Processing](./Machine-Learning/NLP.md) - contains Natural Language Processing resources: NLTK, SKLearn NLP and more.
+-   [Makine Öğrenimi](./Machine-Learning/Machine-Learning.md) - Farklı Makine Öğrenimi rehberleri içerir: gözetimli öğrenme(supervised learning) (regresyon, classification, ağaç modeli etc), gözetimsiz öğrenme(unsupervised learning) (clustering), feature selection(öznitelik çıkarımı), model değerlendirme(model evaluation), etc.
+-   [Derin Öğrenme](./Machine-Learning/Deep-Learning.md) - Derin öğrenme rehberleri, genel rehberler ve öğreticiler içerir network tabanı ile organize edilen  (CNN, RNN, etc.) ve kütüphaneler (TensorFlow, Keras, PyTorch, etc.).
+-   [Doğal Dil İşleme](./Machine-Learning/NLP.md) - Doğal dil işleme kaynakları barındırır: NLTK, SKLearn NLP ve dahası.
 
-## Statistics and Mathematics
+## İstatistik ve Matematik
 
--   [Statistics](./Stats-Math/Statistics.md) - contains mostly theoretical reading to deepen your understanding of statistics.
--   [Mathematics](./Stats-Math/Math.md) - contains resources for math topics that are relevant for data scientists.
+-   [İstatistik](./Stats-Math/Statistics.md) -Teorik istatistik anlayışınızı geliştirmek için derin okumalar içerir.
+-   [Matematik](./Stats-Math/Math.md) - Veri bilimcilerin ihtiyacı olan matematik konuları için kaynaklar içerir.
 
-## Getting Data
+## Veri seti bulmak
 
--   [Datasets](./Getting-Data/Datasets.md) -  links to interesting datasets.
+-   [Veri setleri](./Getting-Data/Datasets.md) -  İlgi çekici data setlerinin linkleri
 
-## Development Environment
+## Geliştirme Ortamı
 
--   [Git and GitHub](./Development-Environment/Git.md) - contains Git and GitHub/GitHub Enterprise resources.
--   [Command Line Interface](./Development-Environment/Command-Line.md) - contains Command Line resources.
--   [Development Environment Resources](./Development-Environment/IDEs.md) - contains development environment resources: Jupyter Notebook/Lab, text editors (like VS Code), etc.
+-   [Git and GitHub](./Development-Environment/Git.md) -  Git and GitHub/GitHub Enterprise kaynakları içerir.
+-   [Command Line Interface](./Development-Environment/Command-Line.md) - Command Line (komut satırı) kaynakları içerir.
+-   [Development Environment Resources](./Development-Environment/IDEs.md) - Geliştirici uygulamaları kaynakları içerir Jupyter Notebook, metin editörleri, Visual Studio Code gibi.

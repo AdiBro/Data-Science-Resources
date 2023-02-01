@@ -36,7 +36,3 @@ There are translations of this page at the bottom. Please feel free to fork and 
 -   [Git and GitHub](./Development-Environment/Git.md) - contains Git and GitHub/GitHub Enterprise resources.
 -   [Command Line Interface](./Development-Environment/Command-Line.md) - contains Command Line resources.
 -   [Development Environment Resources](./Development-Environment/IDEs.md) - contains development environment resources: Jupyter Notebook/Lab, text editors (like VS Code), etc.
-
-## Translations
--   [Hebrew](./Translations/Hebrew/README.md) - IN PROGRESS
--   [Turkish](./Translations/Turkish/README.md)

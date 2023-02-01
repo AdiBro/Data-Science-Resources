@@ -1,4 +1,4 @@
-# Python and Data Analysis
+# Python
 
 ## General/Basic Python
 ### Documentation and Tutorials
@@ -13,13 +13,13 @@
 - [Python Tutorial](http://www.tutorialspoint.com/python3/) - a very detailed Python tutorial from [Tutorialspoint.com](https://www.tutorialspoint.com).
 - [Python Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#python-data) - IPython Notebook(s) demonstrating Python functionality geared towards data analysis. From [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
 - [Real Python Tutorials](http://www.realpython.com) - "at Real Python you can learn all things Python from the ground up. Everything from the absolute basics of Python, to web development and web scraping, to data visualization, and beyond."
+- [Python 3 Module of the Week](https://pymotw.com/3/index.html) - "PyMOTW-3 is a series of articles written by [Doug Hellmann](https://doughellmann.com/) to demonstrate how to use the modules of the Python 3 standard library."
 
-### Books (Basic/General Python)
+#### Books
 - [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) - _Think Python_ is an introduction to Python programming for beginners. You can download a free PDF, view online and even access the Python code.
 - [A Whirlwind Tour of Python](https://www.safaribooksonline.com/library/view/a-whirlwind-tour/9781492037859/) - a free tutorial for Python - "a brief yet comprehensive introduction to Python for engineers, researchers, and data scientists who are already familiar with another programming language." Also available in a [free PDF file](https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
   - [A Whirlwind Tour of Python - GitHub Repo](https://github.com/jakevdp/WhirlwindTourOfPython) - a repository that contains the Jupyter Notebooks behind the O'Reilly report, A Whirlwind Tour of Python.
-- [Dive Into Python 3](https://github.s3.amazonaws.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf) - a hands-on guide to Python 3 and its differences from Python 2. PDF file.
-
+- [Dive Into Python 3](https://github.s3.amazonaws.com/downloads/diveintomark/diveintopython3/dive-into-python3.pdf) - a hands-on guide to Python 3 and its differences from Python 2. PDF file.  
 
 ### Python Data Types, Control Flow and Functions
 #### Python Data Types and Variables
@@ -34,15 +34,20 @@
 #### Python Control Flow
 - [Python Basics: Understanding The Flow Control Statements](https://www.codeproject.com/Articles/663666/Python-Basics-Understanding-The-Flow-Control-State) - a tutorial for control flow in Python (for, if etc).
 - [Python Control Flow](https://python.swaroopch.com/control_flow.html)
-- [Another Python Control Flow Tutorial](https://python.swaroopch.com/control_flow.html)
+
+##### If, Elif, Else Statements
 - [Python Tutorial - If Statements](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/ifstatements.html) - part of the excellent [Hands-on Python Tutorial](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html).
 - [Python: IF, ELIF, ELSE](https://www.tutorialspoint.com/python/python_if_else.htm)
+
+##### Loops ('for' and 'while')
 - [Python 'for' Loops Examples](https://www.cyberciti.biz/faq/python-for-loop-examples-statements/)
 - [Python Loops](https://www.tutorialspoint.com/python/python_loops.htm)
 - [Python Tutorial - Loops](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/loops.html) -
 part of the excellent [Hands-on Python Tutorial](http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html).
-- [Python List Comprehension Explained Visually](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/) -
-great (graphical) explanation of list comprehension in Python.
+
+##### List Comprehension
+- [Python List Comprehension Explained Visually](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/) - great (graphical) explanation of list comprehension in Python.
+- [Tutorial – Python List Comprehension With Examples](https://www.analyticsvidhya.com/blog/2016/01/python-tutorial-list-comprehension-examples/)
 
 #### Python Functions
 - [Python Functions Tutorial](http://www.tutorialspoint.com/python/python_functions.htm) - a tutorial on functions in Python.
@@ -50,10 +55,11 @@ great (graphical) explanation of list comprehension in Python.
 - [Python Practice Book - Functions](https://anandology.com/python-practice-book/getting-started.html#functions)
 - [Learn Python - Functions](https://www.learnpython.org/en/Functions)
 
-### Websites to Practice Python/Coding
+## Websites to Practice Python/Coding
 - [Codewars](https://www.codewars.com)
 - [HackerRank](https://www.hackerrank.com)
 - [CodeSignal](https://codesignal.com)
 - [Exercism](https://exercism.io)
 - [CodingBat](https://codingbat.com/python) - contains Python exercises. For beginners and intermediate-level programmers.
+- [LeetCode](https://leetcode.com/)
 - [Project Euler](https://projecteuler.net) - a website dedicated to **a lot** of computational problems intended to be solved with computer programs.

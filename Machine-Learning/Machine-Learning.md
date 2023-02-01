@@ -34,6 +34,7 @@
 - [Side-by-side Comparison of Feature Selection Tactics](http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/)
 - [Walkthrough on Feature Selection in Python](https://www.dummies.com/programming/big-data/data-science/how-to-use-python-to-select-the-right-variables-for-data-science/)
 - [An Overview of Feature Selection Strategies](https://www.datasciencecentral.com/profiles/blogs/an-overview-of-feature-selection-strategies)
+- [Part 1](https://fennel.ai/blog/feature-engineering-for-recommendation/) and [Part 2](https://fennel.ai/blog/feature-engineering-for-recommendation-031/) on Feature Engineering for Recommendation Systems
 
 ## Supervised Learning
 - [Scikit-Learn Supervised Learning Documentation](http://scikit-learn.org/stable/supervised_learning.html)

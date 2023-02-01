@@ -1,7 +1,10 @@
 # Veri Bilimi Kaynakları
 
+__Credit for translation to [Furkan Alioglu](https://github.com/furkanalioglu)__!   
+
 Bu repository data science (Veri Bilimi) öğrenen ve pratik yapan herkese yardımcı olmak için kaynaklar ve kopya kağıtları(cheatsheets) içerir.
 Kaynakların büyük bir kısmı python kullanıcıları içindir, ancak ekteki linke tıklayarak R kaynaklarına da ulaşabilirsiniz [R resources]          (./Programming-Languages/R.md) (Bir noktada ben de buna bir ölçek koymayı planlıyorum).
+
 
 -  [Cheat Sheets] (Kopya Kağıtları) - Python, veri analizi, makine öğrenimi, Git ve dahası için birçok kullanışlı bilgiler içeren kağıtlardır.
 

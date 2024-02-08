@@ -17,6 +17,7 @@
 -   ["Learn Basic SQL in 10 Minutes"](https://www.youtube.com/watch?v=bEtnYWuo2Bw) - "This video uses a visual approach to teach the basic SQL commands."
 -   ["Learn SQL In 60 Minutes"](https://www.youtube.com/watch?v=p3qvj9hO_Bo) - "In this video we will cover everything you need to know about SQL in only 60 minutes. We will cover what SQL is, why SQL is important, what SQL is used for, the syntax of SQL, and multiple examples of SQL. SQL is the standard language for interacting with and manipulating data in a relational database system, and is one of the most important concepts you can learn in programming. It allows you to create, read, update, and delete data which is something nearly every application will need to do."
 -   ["SQL Tutorial - Full Database Course for Beginners"](https://www.youtube.com/watch?v=HXV3zeQKqGY) - "In this course, we'll be looking at database management basics and SQL using the MySQL RDBMS. The course is designed for beginners to SQL and database management systems, and will introduce common database management topics. "
+-   [SQL Tutorial for Beginners](https://www.youtube.com/watch?v=On9eSN3F8w0) - "SQL Tutorial for Beginners - Learn complete SQL from basics to advance in one video."
 
 ## SQL Cheat Sheet
 
@@ -24,6 +25,8 @@
 -   [SQL Cheat Sheet (from www.databasestar.com/)](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet.pdf)
 -   [SQL Cheat (from hackr.io)](https://hackr.io/blog/sql-cheat-sheet)
 -   [Quick SQL Cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet)
+-   [SQL Cheatsheet](https://www.interviewbit.com/sql-cheat-sheet/)
+
 
 ## Practice SQL - SQL Exercises
 
@@ -40,6 +43,7 @@
 -   [Top SQL Interview Questions One Should Know Beforehand](https://www.techbeamers.com/sql-interview-questions-answers-experienced/)
 -   [25 SQL Performance Interview Questions and Answers](https://www.techbeamers.com/sql-performance-interview-questions-answers/)
 -   [Top 30 PL SQL Interview Questions and Answers for Freshers](https://www.techbeamers.com/pl-sql-interview-questions-answers-freshers/)
+-   [SQL Interview Questions and Answers for Freshers](https://www.interviewbit.com/sql-interview-questions/)
 
 ## Learn SQL - SQL Courses
 

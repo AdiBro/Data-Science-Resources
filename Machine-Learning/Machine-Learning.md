@@ -72,6 +72,7 @@
 - [K-Nearest Neighbors Examples](http://marcharper.codes/2016-06-22/Classification.html) - an example of K-Nearest Neighbors Classifier (in a Jupyter Notebook).
 - [Model Training and Prediction with K-Nearest Neighbors](http://blog.kaggle.com/2015/04/30/scikit-learn-video-4-model-training-and-prediction-with-k-nearest-neighbors/)
 - [Tutorial To Implement K-Nearest Neighbors in Python From Scratch](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
+- [K-Nearest Neighbor(KNN) Algorithm in Machine Learning](https://www.appliedaicourse.com/blog/knn-algorithm-in-machine-learning/)
 
 #### Classification Models Evaluation
 - [Precision-Recall](http://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html#sphx-glr-auto-examples-model-selection-plot-precision-recall-py)
